@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-08-03",
+  "pauta_id": "P002",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {"layout": "capa", "etiqueta": "Uma cena", "titulo": "\"Desculpa por estar cansada.\"", "subtitulo": "Ela nem percebia que dizia isso."},
+    {"layout": "texto", "texto": "Marina tinha 52 anos e 28 de casamento.\n\nPedia desculpa por pedir para ele lavar a louça. Por estar cansada. Por quase tudo."},
+    {"layout": "texto", "texto": "Quando perguntaram por que fazia isso, ela ficou quieta uns segundos.\n\nDepois disse, baixinho: \"Não sei. Simplesmente sai. É automático.\""},
+    {"layout": "texto", "titulo": "O problema não era a desculpa.", "texto": "Era o que estava por trás dela: a sensação de que a própria presença precisava ser justificada."},
+    {"layout": "lista", "titulo": "Como um padrão desses se instala:", "itens": ["Ela diz que queria mais tempo juntos. Ele fica na defensiva.", "Ela recua e pede desculpa. A tensão passa.", "Na próxima vez, ela recua mais rápido.", "Com o tempo, para de pedir qualquer coisa."]},
+    {"layout": "texto", "texto": "Ninguém escolhe isso de propósito. É uma adaptação, um jeito que um dia trouxe paz.\n\nE o que foi aprendido também pode ser revisto, com calma."},
+    {"layout": "fechamento", "titulo": "Você não precisa pedir licença para existir.", "texto": "Envie para uma amiga\nque pede desculpa por tudo."}
+  ],
+  "legenda": "Tem desculpa que não é educação. É o hábito de pedir licença para ocupar espaço.\n\nRepara amanhã: quantas vezes você diz \"desculpa\" sem ter feito nada de errado?\n\nMe conta nos comentários qual foi a última.\n\n#autoestimafeminina #relacionamento #amorproprio #mulheres40mais #limites",
+  "observacao_interna": "Caso Marina, ebook principal (A mulher que sempre pedia desculpas; A formação do padrão)."
+}

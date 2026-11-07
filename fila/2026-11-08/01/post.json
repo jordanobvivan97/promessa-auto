@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-08-01",
+  "pauta_id": "P043",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {"layout": "capa", "etiqueta": "Isso x aquilo", "titulo": "\"Você não pode me falar desse jeito.\"", "subtitulo": "Parece um limite. Mas só funciona se ele quiser."},
+    {"layout": "texto", "texto": "Essa frase tenta controlar o outro.\n\nE ele pode simplesmente ignorar. Aí sobra para você a raiva, o cansaço e a sensação de que limite não serve para nada."},
+    {"layout": "texto", "titulo": "Agora repara nesta:", "texto": "\"Se você me falar desse jeito, eu vou encerrar a conversa e retomar quando o tom mudar.\"\n\nEla não pede nada a ele. Ela diz o que você vai fazer."},
+    {"layout": "texto", "texto": "Falso limite tenta mudar quem o outro é.\n\nLimite real define a sua resposta diante do que ele faz. E a sua resposta está inteira nas suas mãos."},
+    {"layout": "lista", "titulo": "O mesmo jeito, em três situações:", "itens": ["Ligação a qualquer hora: \"Não atendo depois das 22h, exceto emergência real.\"", "Ser diminuída na frente dos outros: \"Se isso acontecer, eu me retiro e a gente conversa em particular.\"", "Planos ignorados: \"Minhas quartas-feiras são para mim.\""]},
+    {"layout": "texto", "titulo": "Observar, decidir, comunicar.", "texto": "Você observa o que não aceita. Decide o que vai fazer. E diz com calma.\n\nSem drama e sem castigo. Só informação."},
+    {"layout": "fechamento", "titulo": "Limite não é controlar ele.\nÉ cuidar de você.", "texto": "Salve e escreva hoje\no seu primeiro limite real."}
+  ],
+  "legenda": "Quantas vezes você disse \"não fala assim comigo\" e nada mudou?\n\nNão é que você não saiba pôr limite. É que aquela frase dependia dele. O limite real depende de você.\n\nQual situação você quer transformar em limite real? Me conta nos comentários.\n\nSe existe medo ou ameaça na sua relação, procure apoio antes de qualquer conversa. Ligue 180.\n\n#limites #relacionamento #autoestimafeminina #mulheres40mais #amorproprio",
+  "observacao_interna": "Manual dos Limites Inegociáveis, cap. 2 (falso limite x limite real, exemplos concretos, observar/decidir/comunicar)."
+}
