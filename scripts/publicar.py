@@ -21,7 +21,7 @@ import requests
 
 RAIZ = Path(__file__).resolve().parent.parent
 TZ = ZoneInfo("America/Sao_Paulo")
-API = os.environ.get("IG_API_BASE", "https://graph.instagram.com/v24.0")
+API = os.environ.get("IG_API_BASE", "https://graph.facebook.com/v24.0")
 IG_USER = os.environ["IG_USER_ID"]
 TOKEN = os.environ["IG_TOKEN"]
 REPO = os.environ["GITHUB_REPOSITORY"]

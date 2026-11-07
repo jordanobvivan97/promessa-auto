@@ -19,7 +19,7 @@ from pathlib import Path
 import requests
 
 RAIZ = Path(__file__).resolve().parent.parent
-API = os.environ.get("IG_API_BASE", "https://graph.instagram.com/v24.0")
+API = os.environ.get("IG_API_BASE", "https://graph.facebook.com/v24.0")
 TOKEN = os.environ["IG_TOKEN"]
 METRICAS = ["reach", "saved", "shares", "likes", "comments"]
 

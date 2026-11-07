@@ -8,7 +8,6 @@ Gera e publica sozinho carrosséis e estáticos no Instagram do Promessa Não Su
 2. **Você aprova (primeira semana):** abre o PR no app do GitHub, olha as imagens e faz merge. Sem merge, nada sai.
 3. **Nos horários (GitHub Actions):** `scripts/publicar.py` publica pela API oficial do Instagram e move o post para `publicados/`.
 4. **Todo dia de manhã:** `scripts/metricas.py` coleta alcance, salvamentos e envios e atualiza o freio de volume em `metricas/freio.json`.
-5. **A cada 10 dias:** o token do Instagram é renovado sozinho.
 
 Botão de emergência: crie um arquivo chamado `PAUSADO` na raiz do repositório e nada mais é publicado até você apagá-lo.
 
@@ -19,7 +18,10 @@ Custo: zero. GitHub Actions e jsDelivr são gratuitos para repositório público
 ### 1. Conta do Instagram
 A conta precisa ser profissional (Criador ou Empresa). No app: Configurações, Tipo de conta e ferramentas, Mudar para conta profissional.
 
-### 2. App na Meta
+### 2. App na Meta (configurado em 07/11/2026)
+App "Agente Promessa", gerenciado pelo Portfólio empresarial "Promessa Nao Sustenta", com a conta @promessanaosustenta conectada. O token é de usuário do sistema e não expira. IG_USER_ID: 17841417689269968.
+
+Passos originais, para referência:
 1. Entre em developers.facebook.com com seu Facebook e crie uma conta de desenvolvedor, se ainda não tiver.
 2. Meus apps, Criar app. Escolha o caso de uso "Gerenciar mensagens e conteúdo no Instagram".
 3. No painel do app, em Permissões e recursos, adicione `instagram_business_basic`, `instagram_business_content_publish` e `instagram_business_manage_insights`.
@@ -36,7 +38,6 @@ Publicar na sua própria conta funciona com acesso padrão, sem revisão do app 
 2. Em Settings, Secrets and variables, Actions, crie:
    - `IG_TOKEN`: o token do passo 2.5
    - `IG_USER_ID`: o número do passo 2.6
-   - `GH_PAT`: um token do GitHub (Settings da sua conta, Developer settings, Fine-grained tokens) com acesso só a este repositório e permissão de leitura e escrita em Secrets. Serve para renovar o token do Instagram sozinho.
 3. Em Settings, Actions, General, marque "Read and write permissions".
 
 Você nunca precisa me passar esses tokens: eles vão direto para os Secrets do GitHub.
