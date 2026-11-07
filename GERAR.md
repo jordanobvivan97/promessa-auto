@@ -12,7 +12,7 @@ Este arquivo é o roteiro que o Claude segue toda noite, na tarefa agendada, par
 
 ## 2. Montar o lote de amanhã
 
-- Quantidade: `posts_por_dia`. Horários: os primeiros N de `marca.json`; se N for maior que a lista, distribua entre 08h e 21h com pelo menos 2h30 de intervalo.
+- Quantidade: `posts_por_dia`. Horários: os primeiros N de `marca.json`; se N for maior que a lista, distribua entre 06h e 21h com pelo menos 2h30 de intervalo.
 - Mistura padrão com 3 posts: 2 carrosséis e 1 estático. Com 4 ou 5: no máximo 1 estático a cada 2 carrosséis.
 - Nunca dois posts do mesmo ebook no mesmo dia. Nunca o mesmo tema visual (`papel`, `cafe`, `rose`) em posts seguidos.
 - Varie a abertura: carta, pergunta direta, cena curta (história em terceira pessoa), contraste "isso x aquilo", lista prática. Não repita o mesmo tipo de abertura no mesmo dia.

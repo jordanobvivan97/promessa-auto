@@ -3,16 +3,44 @@
   "pauta_id": "P028",
   "ebook": "101",
   "tipo": "carrossel",
-  "horario": "20:10",
+  "horario": "19:00",
   "tema": "rose",
   "slides": [
-    {"layout": "capa", "etiqueta": "Para dizer em voz alta", "titulo": "Quando ele diz que você está exagerando", "subtitulo": "Três frases para não engolir de novo."},
-    {"layout": "texto", "texto": "\"Você está exagerando\" tem um efeito curioso: em vez de discutir o que aconteceu, a conversa passa a ser sobre você.\n\nE aí você termina pedindo desculpa por ter sentido."},
-    {"layout": "texto", "titulo": "Frase 1", "texto": "\"O que eu sinto é real para mim, mesmo que pareça exagerado para você. Eu preciso que isso seja respeitado.\""},
-    {"layout": "texto", "titulo": "Frase 2", "texto": "\"Eu não preciso que você concorde. Preciso que você me ouça.\""},
-    {"layout": "texto", "titulo": "Frase 3", "texto": "\"Eu entendo que você não se lembra assim. Mas eu me lembro, e o que eu senti foi real.\""},
-    {"layout": "texto", "titulo": "Um cuidado importante", "texto": "Use quando estiver calma, não no pico da discussão. E adapte as palavras ao seu jeito de falar. Frase decorada soa decorada."},
-    {"layout": "fechamento", "titulo": "Sentir não é exagero.", "texto": "Salve e escolha a frase que mais soa como você."}
+    {
+      "layout": "capa",
+      "etiqueta": "Para dizer em voz alta",
+      "titulo": "Quando ele diz que você está exagerando",
+      "subtitulo": "Três frases para não engolir de novo."
+    },
+    {
+      "layout": "texto",
+      "texto": "\"Você está exagerando\" tem um efeito curioso: em vez de discutir o que aconteceu, a conversa passa a ser sobre você.\n\nE aí você termina pedindo desculpa por ter sentido."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Frase 1",
+      "texto": "\"O que eu sinto é real para mim, mesmo que pareça exagerado para você. Eu preciso que isso seja respeitado.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Frase 2",
+      "texto": "\"Eu não preciso que você concorde. Preciso que você me ouça.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Frase 3",
+      "texto": "\"Eu entendo que você não se lembra assim. Mas eu me lembro, e o que eu senti foi real.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Um cuidado importante",
+      "texto": "Use quando estiver calma, não no pico da discussão. E adapte as palavras ao seu jeito de falar. Frase decorada soa decorada."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Sentir não é exagero.",
+      "texto": "Salve e escolha a frase que mais soa como você."
+    }
   ],
   "legenda": "Quantas vezes uma conversa sobre o que ele fez virou uma conversa sobre o seu \"jeito\"?\n\nEssas três frases ajudam a voltar para o ponto sem atacar e sem se diminuir. Qual delas você usaria?\n\nSe a situação envolve medo, ameaça ou agressão, frase pronta não é o caminho: procure apoio. Ligue 180 (Central de Atendimento à Mulher).\n\n#comunicacao #limites #relacionamento #autoestimafeminina #mulheres40mais"
 }
