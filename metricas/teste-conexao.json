@@ -1,5 +1,5 @@
 {
-  "em": "2026-11-07T09:48:19",
+  "em": "2026-11-07T09:51:59",
   "token": {
     "id": "122103691239534817",
     "name": "agente-promessa"
@@ -61,10 +61,13 @@
     ]
   },
   "pagina": {
-    "erro": "Unsupported get request. Object with ID '61596074472034' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
-    "codigo": 100,
-    "subcodigo": 33
+    "id": "1473988595788216",
+    "name": "Promessa Nao Sustenta Relacionamento",
+    "instagram_business_account": {
+      "id": "17841417689269968"
+    }
   },
+  "pagina_token_ok": true,
   "paginas_visiveis": {
     "data": [
       {
