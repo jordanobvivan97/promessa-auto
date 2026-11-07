@@ -42,7 +42,7 @@ Abrir todas as imagens geradas e conferir: texto inteiro visível, sem corte, le
 
 ## 5. Entregar
 
-- `modo_aprovacao: "pr"`: criar a branch `lote-AAAA-MM-DD`, commitar e abrir um Pull Request com o título "Lote AAAA-MM-DD" e, na descrição, uma linha por post (horário, tipo, tema). Jordano aprova fazendo merge. Sem merge até o horário, o post não sai.
+- `modo_aprovacao: "pr"`: criar a branch `lote-AAAA-MM-DD` a partir da main atualizada, gravar `fila/AAAA-MM-DD/RESUMO.md` com uma linha por post (horário, tipo, pauta, primeira frase), commitar e dar `git push origin lote-AAAA-MM-DD`. O workflow `abrir-pr.yml` abre o Pull Request sozinho. Jordano aprova fazendo merge. Sem merge até o horário, o post não sai.
 - `modo_aprovacao: "direto"`: commitar direto na branch principal.
 
 Terminar com um resumo de 3 linhas: quantos posts, de quais pautas, e qualquer alerta (freio mudou o volume, pauta do banco acabando, erro de validação que exigiu reescrita).

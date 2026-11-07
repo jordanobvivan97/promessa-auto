@@ -1,0 +1,28 @@
+name: Abrir PR do lote
+
+# Quando o agente envia uma branch lote-AAAA-MM-DD, abre o Pull Request para aprovação.
+on:
+  push:
+    branches: ["lote-*"]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Abrir ou atualizar o PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BR="${GITHUB_REF_NAME}"
+          DIA="${BR#lote-}"
+          if gh pr view "$BR" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "PR já existe para $BR"; exit 0
+          fi
+          CORPO="Lote de posts para $DIA. Confira as imagens na aba Files changed e faça merge para aprovar. Sem merge até o horário, nada é publicado."
+          if [ -f "fila/$DIA/RESUMO.md" ]; then CORPO="$(cat fila/$DIA/RESUMO.md)"$'\n\n'"$CORPO"; fi
+          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$BR" --title "Lote $DIA" --body "$CORPO"
