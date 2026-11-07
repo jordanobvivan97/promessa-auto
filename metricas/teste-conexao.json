@@ -1,0 +1,82 @@
+{
+  "em": "2026-11-07T09:48:19",
+  "token": {
+    "id": "122103691239534817",
+    "name": "agente-promessa"
+  },
+  "permissoes": {
+    "data": [
+      {
+        "permission": "read_insights",
+        "status": "granted"
+      },
+      {
+        "permission": "pages_show_list",
+        "status": "granted"
+      },
+      {
+        "permission": "business_management",
+        "status": "granted"
+      },
+      {
+        "permission": "instagram_basic",
+        "status": "granted"
+      },
+      {
+        "permission": "instagram_manage_insights",
+        "status": "granted"
+      },
+      {
+        "permission": "instagram_content_publish",
+        "status": "granted"
+      },
+      {
+        "permission": "pages_read_engagement",
+        "status": "granted"
+      },
+      {
+        "permission": "pages_manage_posts",
+        "status": "granted"
+      },
+      {
+        "permission": "public_profile",
+        "status": "granted"
+      }
+    ]
+  },
+  "instagram": {
+    "id": "17841417689269968",
+    "media_count": 13,
+    "username": "promessanaosustenta"
+  },
+  "limite_publicacao": {
+    "data": [
+      {
+        "quota_usage": 0,
+        "config": {
+          "quota_total": 100,
+          "quota_duration": 86400
+        }
+      }
+    ]
+  },
+  "pagina": {
+    "erro": "Unsupported get request. Object with ID '61596074472034' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api",
+    "codigo": 100,
+    "subcodigo": 33
+  },
+  "paginas_visiveis": {
+    "data": [
+      {
+        "id": "1473988595788216",
+        "name": "Promessa Nao Sustenta Relacionamento"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "QVFIVEhyUW5YQWNnTllqS1kweVNvUk42bmZAQYXRMR1BZAMDhoYldWR09KdTFIVU1yU2EtN1dJQWZAiOTRnUjFVZAkQ3UEl1ZAlM4cEIwc1RlYnJuRVA3YkMyODNn",
+        "after": "QVFIVEhyUW5YQWNnTllqS1kweVNvUk42bmZAQYXRMR1BZAMDhoYldWR09KdTFIVU1yU2EtN1dJQWZAiOTRnUjFVZAkQ3UEl1ZAlM4cEIwc1RlYnJuRVA3YkMyODNn"
+      }
+    }
+  }
+}
