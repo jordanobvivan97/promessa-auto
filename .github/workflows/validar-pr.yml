@@ -1,0 +1,22 @@
+name: Conferir lote
+
+# Roda em cada PR de lote novo: valida as regras da marca e confere se as imagens existem.
+on:
+  pull_request:
+    paths: ["fila/**"]
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python scripts/validar.py fila
+      - name: Conferir imagens
+        run: |
+          for d in fila/*/*/; do
+            ls "$d"slide-*.jpg >/dev/null 2>&1 || { echo "Sem imagens em $d"; exit 1; }
+          done

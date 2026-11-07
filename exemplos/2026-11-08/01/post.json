@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-08-01",
+  "pauta_id": "P004",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "08:40",
+  "tema": "papel",
+  "slides": [
+    {"layout": "capa", "etiqueta": "Carta", "titulo": "Não era sobre a toalha molhada.", "subtitulo": "Era sobre os quinze anos antes dela."},
+    {"layout": "texto", "texto": "Ela gritou por causa de uma toalha em cima da cama.\n\nEle ficou assustado. Disse que ela estava exagerando. Que era só uma toalha."},
+    {"layout": "texto", "texto": "Só que ninguém explode por uma toalha.\n\nA gente explode pelo comentário engolido, pelo plano feito sem consulta, pela necessidade que nunca foi dita para não criar problema."},
+    {"layout": "texto", "titulo": "É como uma mochila.", "texto": "Uma pedrinha você nem sente. Mas depois de anos guardando cada coisa em silêncio, qualquer pedrinha a mais pesa como se fosse o mundo."},
+    {"layout": "texto", "texto": "\"Você nunca disse que estava infeliz.\"\n\nE o mais duro é que, muitas vezes, é verdade. A gente foi ensinada a manter a paz. Ninguém ensinou que paz comprada com silêncio cobra juros."},
+    {"layout": "lista", "titulo": "O que dá para fazer antes da mochila encher:", "itens": ["Perceber o incômodo no dia em que ele aparece, não no ano em que explode.", "Perguntar a si mesma: isso é importante para mim?", "Dizer com calma enquanto ainda é pequeno."]},
+    {"layout": "fechamento", "titulo": "Você não é exagerada.\nVocê está cansada.", "texto": "Salve para reler no dia em que tudo parecer \"só uma toalha\"."}
+  ],
+  "legenda": "A explosão quase nunca é sobre o motivo da hora. É sobre tudo o que veio antes e ficou sem nome.\n\nSe você já ouviu \"mas é só uma toalha\", esse post é para você. E se conhece alguém carregando essa mochila, envia para ela.\n\nMe conta nos comentários: qual foi a sua \"toalha molhada\"?\n\n#relacionamento #autoestimafeminina #limites #mulheres40mais #amorproprio",
+  "observacao_interna": "Baseado no caso Beatriz, capítulo 2 do ebook principal."
+}

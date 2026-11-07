@@ -1,0 +1,14 @@
+{
+  "nome": "Promessa Não Sustenta Relacionamento",
+  "assinatura_rodape": "Promessa Não Sustenta Relacionamento",
+  "posts_por_dia": 3,
+  "horarios": ["08:40", "12:40", "20:10"],
+  "modo_aprovacao": "pr",
+  "freio": {
+    "janela_dias": 14,
+    "queda_max_alcance_mediano": 0.30,
+    "volume_minimo": 2,
+    "volume_maximo": 5
+  },
+  "link_bio_ativo": false
+}
