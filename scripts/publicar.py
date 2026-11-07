@@ -19,6 +19,9 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from validar import validar_post  # noqa: E402
+
 RAIZ = Path(__file__).resolve().parent.parent
 TZ = ZoneInfo("America/Sao_Paulo")
 API = os.environ.get("IG_API_BASE", "https://graph.facebook.com/v24.0")
@@ -146,6 +149,10 @@ def pendentes(agora):
             continue
         h, m = map(int, post["horario"].split(":"))
         if dia == hoje and (agora.hour, agora.minute) < (h, m):
+            continue
+        erros, _ = validar_post(pasta)
+        if erros:
+            print(f"Post {pasta} reprovado na validação, NÃO publicado: {erros}", file=sys.stderr)
             continue
         if not list(pasta.glob("slide-*.jpg")):
             print(f"Sem imagens renderizadas em {pasta}, pulando", file=sys.stderr)
