@@ -1,0 +1,31 @@
+name: Testar conexao (so leitura)
+
+# Roda quando o arquivo .github/testar muda (ou manualmente). Não publica nada.
+on:
+  push:
+    branches: [main]
+    paths: [".github/testar"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+        run: python scripts/testar_conexao.py
+      - run: |
+          git config user.name "agente-promessa"
+          git config user.email "agente-promessa@users.noreply.github.com"
+          git add metricas/teste-conexao.json
+          git diff --cached --quiet || (git commit -m "Teste de conexao $(date -u +%F' '%H:%M) UTC" && git push)

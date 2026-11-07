@@ -37,7 +37,8 @@ Publicar na sua própria conta funciona com acesso padrão, sem revisão do app 
 1. Crie um repositório **público** chamado `promessa-auto` na conta jordanobvivan97. Ele precisa ser público porque o Instagram baixa as imagens por um link aberto; tokens ficam em Secrets, que são criptografados e nunca aparecem no código. Os ebooks não vão para o repositório.
 2. Em Settings, Secrets and variables, Actions, crie:
    - `IG_TOKEN`: o token do passo 2.5
-   - `IG_USER_ID`: o número do passo 2.6
+   - `IG_USER_ID`: 17841417689269968
+   - `FB_PAGE_ID`: 1473988595788216 (Página do Facebook; os posts saem nela também, sem hashtags)
 3. Em Settings, Actions, General, marque "Read and write permissions".
 
 Você nunca precisa me passar esses tokens: eles vão direto para os Secrets do GitHub.

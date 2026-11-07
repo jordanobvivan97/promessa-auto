@@ -24,6 +24,7 @@ TZ = ZoneInfo("America/Sao_Paulo")
 API = os.environ.get("IG_API_BASE", "https://graph.facebook.com/v24.0")
 IG_USER = os.environ["IG_USER_ID"]
 TOKEN = os.environ["IG_TOKEN"]
+FB_PAGE = os.environ.get("FB_PAGE_ID", "").strip()
 REPO = os.environ["GITHUB_REPOSITORY"]
 SHA = os.environ["GITHUB_SHA"]
 MAX_POR_EXECUCAO = 1  # evita rajada: no máximo 1 post a cada execução
@@ -77,6 +78,39 @@ def criar_containers(pasta, post, provedor):
     return c["id"]
 
 
+def legenda_facebook(legenda):
+    """No Facebook, hashtags quase não ajudam e dão cara de post copiado: remove."""
+    linhas = [" ".join(p for p in l.split() if not p.startswith("#")) if "#" in l else l for l in legenda.split("\n")]
+    return "\n".join(linhas).strip()
+
+
+def token_pagina():
+    """O token do usuário do sistema dá acesso ao token da Página, que é o que publica nela."""
+    return chamar("GET", FB_PAGE, fields="access_token")["access_token"]
+
+
+def publicar_facebook(pasta, post):
+    rel = pasta.relative_to(RAIZ).as_posix()
+    imagens = sorted(pasta.glob("slide-*.jpg"))
+    tk = token_pagina()
+    texto = legenda_facebook(post["legenda"])
+
+    def fb(caminho, **params):
+        params["access_token"] = tk
+        r = requests.post(f"{API}/{caminho}", data=params, timeout=90).json()
+        if "error" in r:
+            raise RuntimeError(f"facebook {caminho}: {r['error']}")
+        return r
+
+    if len(imagens) == 1:
+        r = fb(f"{FB_PAGE}/photos", url=url_imagem(f"{rel}/{imagens[0].name}"), message=texto)
+        return {"post_id": r.get("post_id", r.get("id"))}
+    fotos = [fb(f"{FB_PAGE}/photos", url=url_imagem(f"{rel}/{img.name}"), published="false")["id"] for img in imagens]
+    r = fb(f"{FB_PAGE}/feed", message=texto,
+           attached_media=json.dumps([{"media_fbid": f} for f in fotos]))
+    return {"post_id": r["id"]}
+
+
 def publicar(pasta):
     post = json.loads((pasta / "post.json").read_text(encoding="utf-8"))
     try:
@@ -86,6 +120,12 @@ def publicar(pasta):
         cid = criar_containers(pasta, post, "raw")
     pub = chamar("POST", f"{IG_USER}/media_publish", creation_id=cid)
     info = chamar("GET", pub["id"], fields="id,permalink,timestamp")
+    if FB_PAGE:
+        try:
+            info["facebook"] = publicar_facebook(pasta, post)
+        except Exception as e:  # noqa: BLE001  Facebook falhar não desfaz o Instagram
+            info["facebook"] = {"erro": str(e)[:300]}
+            print(f"Facebook falhou em {post['id']}: {e}", file=sys.stderr)
     destino = RAIZ / "publicados" / pasta.parent.name / pasta.name
     destino.parent.mkdir(parents=True, exist_ok=True)
     shutil.move(str(pasta), destino)
