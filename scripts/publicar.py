@@ -26,7 +26,7 @@ IG_USER = os.environ["IG_USER_ID"]
 TOKEN = os.environ["IG_TOKEN"]
 FB_PAGE = os.environ.get("FB_PAGE_ID", "").strip()
 REPO = os.environ["GITHUB_REPOSITORY"]
-SHA = os.environ["GITHUB_SHA"]
+SHA = os.environ.get("PUB_SHA") or os.environ["GITHUB_SHA"]
 MAX_POR_EXECUCAO = 1  # evita rajada: no máximo 1 post a cada execução
 
 

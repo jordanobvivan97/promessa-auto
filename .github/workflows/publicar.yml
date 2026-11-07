@@ -2,7 +2,7 @@ name: Publicar no Instagram
 
 on:
   schedule:
-    # A cada 20 min entre 08h e 22h de Brasília (11h a 01h UTC). O GitHub pode atrasar alguns minutos.
+    # Reserva: o disparo principal vem do cron-job.org a cada 20 min (o agendador do GitHub não é confiável).
     - cron: "7,27,47 11-23,0 * * *"
   workflow_dispatch: {}
 
@@ -19,6 +19,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Pegar a versao mais nova da fila (evita post duplicado se dois disparos chegarem juntos)
+        run: |
+          git pull --ff-only origin main
+          echo "PUB_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -35,4 +41,4 @@ jobs:
           git config user.name "agente-promessa"
           git config user.email "agente-promessa@users.noreply.github.com"
           git add -A fila publicados
-          git diff --cached --quiet || (git commit -m "Publicado: $(date -u +%F' '%H:%M) UTC" && git push)
+          git diff --cached --quiet || (git commit -m "Publicado: $(date -u +%F' '%H:%M) UTC" && git pull --rebase origin main && git push)
