@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-09-01",
+  "pauta_id": "P020",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Carta",
+      "titulo": "Para a mulher que fica pelo homem que ele pode se tornar.",
+      "subtitulo": "Esta carta é sua. Leia com calma."
+    },
+    {
+      "layout": "texto",
+      "texto": "Você conhece bem esse homem.\n\nNão o que chega em casa hoje. O outro. O que ele promete ser quando as coisas acalmarem."
+    },
+    {
+      "layout": "texto",
+      "texto": "Você guarda os dias bons como prova.\n\nE vai somando esperança, enquanto a vida acontece com a versão que está aqui, agora."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Ele pode mudar. Pode.",
+      "texto": "Mas você vive com quem ele é hoje. É com esse homem que você divide a mesa, a cama e o cansaço."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Uma pergunta honesta:",
+      "texto": "Se você soubesse que ele nunca vai mudar, que vai ser sempre exatamente assim, você ainda ficaria?"
+    },
+    {
+      "layout": "texto",
+      "texto": "Essa pergunta não pede resposta certa. Pede resposta honesta.\n\nE enxergar isso não é fraqueza. É clareza."
+    },
+    {
+      "layout": "texto",
+      "texto": "Se quiser, separe 10 minutos hoje. Escreva o que você sente de verdade sobre essa relação quando está sozinha e em silêncio.\n\nNão o que deveria sentir.\nO que sente."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você merece viver\no presente, não só\nesperar o futuro.",
+      "texto": "Salve para reler\nnuma noite de silêncio."
+    }
+  ],
+  "legenda": "Tem mulher que não fica pelo homem que ele é. Fica pelo homem que ele pode ser um dia.\n\nE enquanto espera, quem vai ficando para depois é ela.\n\nSe essa carta te encontrou, me conta: há quanto tempo você espera essa versão chegar?\n\n#dependenciaemocional #relacionamento #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "Detox da Dependência Emocional, seção Uma pergunta honesta (versão futura que não existe; reflexão prática de 10 minutos)."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2026-11-09-03",
+  "pauta_id": "P037",
+  "ebook": "MQSE",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Duas coisas diferentes",
+      "titulo": "Frio na barriga não prova que é amor.",
+      "subtitulo": "Intensidade e conexão não são a mesma coisa."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Intensidade",
+      "texto": "Química forte, atração imediata, emoção à flor da pele.\n\nPode parecer viciante. Mas costuma passar."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Conexão real",
+      "texto": "Construída com o tempo: segurança, respeito e escolhas repetidas.\n\nMenos glamourosa no começo. Mais funda com os anos."
+    },
+    {
+      "layout": "texto",
+      "texto": "Muitas vezes, o que acende tanto não é o amor.\nÉ o familiar.\n\nUm jeito de sentir que você já conhece de outras épocas.\nE por isso parece certo."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Para pensar com calma:",
+      "itens": [
+        "Escreva uma característica que você busca num parceiro.",
+        "Pergunte a si mesma: isso me dá segurança?",
+        "Ou só me parece familiar?"
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "A intensidade chama atenção.",
+      "texto": "A conexão real\nsustenta uma vida."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "O amor que dura é construído, não apenas sentido.",
+      "texto": "Comente qual característica\nvocê escreveu."
+    }
+  ],
+  "legenda": "Muita gente aprendeu que amor de verdade tira o chão.\n\nMas o que tira o chão nem sempre é o que segura você de pé depois.\n\nFaz o exercício do slide 5 e me conta nos comentários: o que você escreveu?\n\n#autoconhecimento #relacionamento #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "A Mulher Que Se Entende, Pilar 5 (intensidade x conexão real; coloque em prática hoje)."
+}
