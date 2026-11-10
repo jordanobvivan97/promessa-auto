@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-11-01",
+  "pauta_id": "P015",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Parecem iguais. Não são.",
+      "titulo": "Amar é uma coisa.\nPrecisar dele\npara existir\né outra.",
+      "subtitulo": "Cinco sinais, lado a lado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando é amor:",
+      "texto": "Você se sente inteira\nmesmo sozinha.\n\nQuando é necessidade:\nficar só abre\num vazio enorme."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando é amor:",
+      "texto": "A presença dele\nsoma ao seu dia.\n\nQuando é necessidade:\no seu humor depende\ndo humor dele."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando é amor:",
+      "texto": "Você fala do que precisa\nsem tremer.\n\nQuando é necessidade:\nvocê engole tudo\npara não ter briga."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando é amor:",
+      "texto": "Você fica porque quer.\n\nQuando é necessidade:\nvocê fica porque\ntem medo de perder."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A pergunta não é se você ama.",
+      "texto": "Provavelmente ama.\n\nA pergunta é outra: você ainda tem opinião, amigas e sonhos que não dependem da aprovação dele?"
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Reconhecer não é se culpar. É o começo.",
+      "texto": "Salve e releia com calma\nquando estiver sozinha."
+    }
+  ],
+  "legenda": "Muitas de nós aprendemos cedo que amor precisava ser conquistado. Por isso a necessidade se veste de amor tão bem.\n\nIsso não é fraqueza. É um jeito antigo de se proteger que hoje pede revisão.\n\nQual desses sinais você reconheceu primeiro?\n\n#relacionamento #amorproprio #mulheres40mais #autoestimafeminina #dependenciaemocional",
+  "observacao_interna": "Detox da Dependência Emocional, A sutil diferença entre amar e precisar (amor como escolha x dependência como padrão; a pergunta honesta: você ainda existe dentro desse relacionamento?) e De onde vem essa confusão (afeto condicional; não é fraqueza de caráter). Item de conflito reescrito como 'engole tudo para não ter briga' para refletir 'evita conflitos a qualquer custo'."
+}

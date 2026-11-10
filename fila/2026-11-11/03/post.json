@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-11-03",
+  "pauta_id": "P045",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para reconhecer no ato",
+      "titulo": "4 jeitos de testar o limite que você acabou de colocar",
+      "subtitulo": "E uma frase pronta para cada hora."
+    },
+    {
+      "layout": "texto",
+      "titulo": "1. O drama",
+      "texto": "\"Nunca fui tão\nmaltratado na vida.\"\n\nO limite vira ofensa.\nE você vira a vilã da história."
+    },
+    {
+      "layout": "texto",
+      "titulo": "2. O silêncio",
+      "texto": "Ele para de falar.\nE espera que a culpa faça você voltar atrás."
+    },
+    {
+      "layout": "texto",
+      "titulo": "3. A repetição",
+      "texto": "Tudo continua igual.\nComo se você nunca\ntivesse dito nada."
+    },
+    {
+      "layout": "texto",
+      "titulo": "4. A barganha",
+      "texto": "\"Só dessa vez.\nDepois eu prometo\nque mudo.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Na hora, diga:",
+      "texto": "\"Eu entendo que você\nnão gosta disso.\nE esse limite é\nimportante para mim.\nNão vou mudar de posição.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Todo limite é testado.",
+      "texto": "Quem se acostumou\ncom o seu sim\nestranha o seu não.\n\nO que segura o limite\né você manter\na mesma resposta."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Prepare a resposta antes. Na hora, só repita.",
+      "texto": "Envie para uma amiga\nque está nessa fase."
+    }
+  ],
+  "legenda": "Colocar o limite é o primeiro passo. O segundo é aguentar o teste que costuma vir depois.\n\nQuando a resposta já está pronta, a emoção do momento pesa menos.\n\nQual desses 4 jeitos aparece mais na sua vida?\n\n#limites #amorproprio #relacionamento #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "Manual dos Limites Inegociáveis, cap. 8 (as formas mais comuns de testar um limite: dramatização, silêncio punitivo, repetição, barganha; quem se beneficiava testa para voltar ao status quo; a resposta precisa ser preparada com antecedência; consistência). Script: Promessa Não Sustenta Relacionamento, Script 8 (quando você é pressionada a ceder)."
+}
