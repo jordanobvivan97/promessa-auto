@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-10-01",
+  "pauta_id": "P012",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma terça qualquer",
+      "titulo": "Ela segurou o limite por três semanas. Cedeu numa noite de cansaço.",
+      "subtitulo": "E acordou achando que tinha jogado tudo fora."
+    },
+    {
+      "layout": "texto",
+      "texto": "Foi um dia longo.\nTrabalho, casa, mãe no telefone.\n\nÀ noite, ele insistiu no assunto de sempre. E ela disse sim só para ter paz."
+    },
+    {
+      "layout": "texto",
+      "texto": "No dia seguinte veio a voz conhecida:\n\n\"Viu? Você nunca vai mudar.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Não foi falta de força.",
+      "texto": "Quando a energia acaba, a gente volta para o caminho mais conhecido. E o mais conhecido é o mais antigo, não o mais novo."
+    },
+    {
+      "layout": "lista",
+      "titulo": "O padrão antigo costuma voltar:",
+      "itens": [
+        "No cansaço e no estresse.",
+        "Quando ele pressiona e você quer paz.",
+        "Em fases difíceis: doença, perda, crise."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Recaída não apaga o caminho.",
+      "texto": "Ela só mostra onde você ainda precisa de cuidado.\n\nTudo o que você já fez por você continua contando."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Amanhã você\nrecomeça. Sem\nse castigar.",
+      "texto": "Salve para o próximo\ndia cansado."
+    }
+  ],
+  "legenda": "Tem dia em que a gente cede porque está exausta, não porque esqueceu do que quer.\n\nIsso não prova que você não muda. Prova que você é gente.\n\nEm qual momento o padrão antigo costuma voltar para você?\n\n#relacionamento #amorproprio #mulheres40mais #autoestimafeminina #recomeço",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, seção Por Que as Recaídas Acontecem (cansaço e estresse, pressão do parceiro, momentos de vulnerabilidade; recaída não apaga o progresso)."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-10-03",
+  "pauta_id": "P029",
+  "ebook": "101",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Lista prática",
+      "titulo": "4 frases para quando o silêncio dele dura dias",
+      "subtitulo": "Sem implorar. Sem atacar."
+    },
+    {
+      "layout": "texto",
+      "texto": "Quando ele se fecha, você começa a revisar tudo.\n\nO que fez. O que disse. Quem você é.\n\nO silêncio pesa às vezes mais que uma briga."
+    },
+    {
+      "layout": "texto",
+      "titulo": "1. Para dizer o que sente",
+      "texto": "\"Esse silêncio está pesando para mim. Não preciso de uma resolução agora. Só de saber que você ainda está aqui.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "2. Para nomear a distância",
+      "texto": "\"Sinto que algo mudou entre a gente e não sei o que foi. Você consegue me dizer o que está acontecendo?\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "3. Quando o silêncio vira castigo",
+      "texto": "\"Percebo que você está em silêncio. Eu não vou correr atrás. Mas quando quiser conversar, eu estarei aqui.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "4. Quando já virou padrão",
+      "texto": "\"Percebo que a gente tem evitado conversas importantes. Isso me preocupa. Podemos mudar isso juntos?\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não precisa\nmendigar presença.\nPode pedir conexão.",
+      "texto": "Envie para uma amiga\nque vive esse silêncio."
+    }
+  ],
+  "legenda": "Dias sem uma palavra. E você tentando adivinhar o que fez de errado.\n\nDá para quebrar esse silêncio com clareza, sem se diminuir e sem brigar.\n\nQual dessas frases você precisaria ter dito antes?\n\n#conversasdificeis #relacionamento #amorproprio #mulheres40mais #limites",
+  "observacao_interna": "101 Scripts Para Conversas Difíceis, cap. 4, Scripts 44, 46, 47 e 49 (silêncio, frieza e distância). Frase do fechamento adaptada da abertura do cap. 4."
+}
