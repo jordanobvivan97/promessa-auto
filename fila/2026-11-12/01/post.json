@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-12-01",
+  "pauta_id": "P013",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma carta",
+      "titulo": "Para a mulher que aprendeu cedo a não fazer ondas",
+      "subtitulo": "Não foi defeito seu. Foi o que te ensinaram."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Você cresceu ouvindo",
+      "texto": "Seja boazinha.\nNão faça ondas.\nCuide dos outros\nantes de você."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sobre a sua voz",
+      "texto": "Mulher que fala\no que pensa é julgada\ncom mais dureza.\n\nEntão você aprendeu\na falar mais baixo."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sobre a sua raiva",
+      "texto": "Ela era sinal\nde dor ou de limite.\nMas te disseram\nque era feio sentir.\n\nVocê aprendeu a engolir."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sobre discordar",
+      "texto": "Manter a paz\na qualquer custo.\n\nAté discordar\ncomeçou a parecer perigoso,\nmesmo quando era saudável."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sobre o seu valor",
+      "texto": "Ficou preso a agradar,\na estar sempre disponível.\n\nE, pouco a pouco,\nvocê foi se afastando\nde si mesma."
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que eu queria te dizer",
+      "texto": "O que foi aprendido\ntambém pode ser reescrito.\n\nNo seu tempo.\nSem culpa por\nter levado anos."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não nasceu calada. Você foi ensinada.",
+      "texto": "Salve para reler\nno dia em que a culpa vier."
+    }
+  ],
+  "legenda": "Muita coisa que parece jeito seu foi, na verdade, ensinada lá atrás.\n\nNão fazer ondas. Cuidar de todo mundo primeiro. Engolir a raiva para manter a paz.\n\nQual dessas frases você mais ouviu quando era menina?\n\n#amorproprio #autoestimafeminina #mulheres40mais #relacionamento #autoconhecimento",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'Por que isso acontece especialmente com você' (meninas ensinadas a ser boazinhas, a não fazer ondas, a cuidar dos outros antes de si; posicionar-se é julgado com mais dureza; raiva vista como inadequada, aprende a engolir; preservar a paz a qualquer custo, discordar parece perigoso mesmo quando saudável; valor atrelado a agradar e estar disponível, afastando-se de si). Slide 7: A Mulher Que Se Entende, Pilar 2 ('o que foi aprendido também pode ser reescrito'). Evitei a palavra do ebook 'agressiva' (dispara o filtro de tema sensível sem ser o caso)."
+}

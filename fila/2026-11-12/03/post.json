@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-12-03",
+  "pauta_id": "P034",
+  "ebook": "101",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Almoço de domingo",
+      "titulo": "A mesa inteira riu. Ela riu junto.",
+      "subtitulo": "Por dentro, não teve graça nenhuma."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A cena",
+      "texto": "Ele faz uma piada\nsobre o peso dela.\nTodo mundo ri.\n\nEla ri também,\npara não estragar o almoço."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Rir junto tem um preço",
+      "texto": "A piada passa.\nO incômodo fica.\n\nE vai se somando\naos outros que ela\nnunca disse em voz alta."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Depois, a sós:",
+      "texto": "\"Essa piada me incomodou.\nEu sei que não era\na intenção, mas preciso\nque você saiba\ncomo eu me senti.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Se foi na frente dos outros:",
+      "texto": "\"O que aconteceu\nna frente das pessoas\nme deixou envergonhada.\nPreciso que isso\nnão aconteça de novo.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Se o tom é de deboche:",
+      "texto": "\"O tom que você\nestá usando comigo\nnão é respeitoso.\nPeço que você fale\ncomigo de outro jeito.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Se continuar acontecendo:",
+      "texto": "\"Quando isso acontecer\nna frente dos outros,\neu me retiro.\nA gente conversa\nem particular depois.\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Nomear não é brigar.\nÉ parar de engolir.",
+      "texto": "Envie para uma amiga\nque ainda ri junto."
+    }
+  ],
+  "legenda": "Nem toda piada é só piada. Algumas a gente carrega por anos.\n\nVocê não precisa fazer cena na hora. Dá para falar depois, com calma e com as palavras certas.\n\nQual dessas frases você gostaria de ter dito antes?\n\n#limites #amorproprio #relacionamento #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "101 Scripts Para Conversas Difíceis: Script 60 (piadas às suas custas), Script 64 (quando humilham em público), Script 68 (tom condescendente). Cena: Promessa Não Sustenta Relacionamento, história da Beatriz ('as piadas sobre seu peso que ela fingiu achar engraçadas'). Slide 7: Manual dos Limites Inegociáveis, cap. 2, exemplo 3 (críticas públicas: 'eu me retiro e conversamos sobre isso em particular depois')."
+}
