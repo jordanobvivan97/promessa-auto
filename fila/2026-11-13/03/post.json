@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-13-03",
+  "pauta_id": "P001",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Terça à noite",
+      "titulo": "Ela guardou o celular e pensou: dessa vez vai ser diferente.",
+      "subtitulo": "Não era a primeira vez que pensava isso."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A cena de sempre",
+      "texto": "Ele pediu desculpa.\nPrometeu mudar.\n\nE ela quis acreditar.\nQuem nunca quis?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que ela dizia a si mesma",
+      "texto": "\"Se eu for mais\ncompreensiva,\nele vai entender.\"\n\n\"Se eu esperar\nmais um pouco,\nele vai mudar.\""
+    },
+    {
+      "layout": "lista",
+      "titulo": "O que mantém essa frase viva:",
+      "itens": [
+        "Os momentos bons, que confirmam que a relação vale a pena.",
+        "O medo de que mudar acabe com o que existe.",
+        "A ideia de que ela ainda não tentou o bastante."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Esperança não é o problema",
+      "texto": "A esperança dela\né real e legítima.\n\nO problema começa\nquando a esperança\nocupa o lugar da ação."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Um passo pequeno",
+      "texto": "Escolher uma situação\nque incomoda.\n\nEscrever o que\nvocê precisa.\n\nNão precisa falar ainda.\nEscrever já clareia."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Esperar sem agir\nvira só espera.",
+      "texto": "Salve para reler\nna próxima promessa."
+    }
+  ],
+  "legenda": "Quantas vezes você já pensou \"dessa vez vai ser diferente\"?\n\nTer esperança não é fraqueza. Ela só não pode ocupar o lugar do que você precisa fazer por você.\n\nQual promessa você ainda está esperando que se cumpra?\n\n#relacionamento #amorproprio #mulheres40mais #autoestimafeminina #promessa",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento: Introdução ('Dessa vez vai ser diferente'), Cap. 4 'O Círculo Vicioso da Esperança' (frases 'Se eu for mais compreensiva...', 'Se eu esperar mais um pouco...'; O Que Mantém a Esperança Viva; 'Esperança não é o problema. O problema é quando a esperança substitui a ação.'). Slide 6: 'A Fórmula do Limite Claro', Coloque em prática hoje ('Não precisa falar ainda, só escrever já clarifica'). Abertura: cena curta em terceira pessoa."
+}

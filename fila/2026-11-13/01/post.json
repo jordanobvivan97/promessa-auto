@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-13-01",
+  "pauta_id": "P040",
+  "ebook": "MQSE",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Isso x aquilo",
+      "titulo": "Te ensinaram que amor era assim.",
+      "subtitulo": "Três ideias que a gente aprendeu cedo e ainda carrega."
+    },
+    {
+      "layout": "texto",
+      "titulo": "\"Amor verdadeiro não exige esforço.\"",
+      "texto": "Na vida real,\nrelação saudável pede\npresença, cuidado\ne intenção.\n\nAo longo do tempo,\nnão só no começo."
+    },
+    {
+      "layout": "texto",
+      "titulo": "\"Minha metade me completa.\"",
+      "texto": "Você já é inteira.\n\nUma boa parceria\nnão preenche vazio.\nSoma forças."
+    },
+    {
+      "layout": "texto",
+      "titulo": "\"Ciúme é prova de amor.\"",
+      "texto": "Ciúme demais\nnão mostra afeto.\n\nMostra insegurança\ne vontade de controlar."
+    },
+    {
+      "layout": "texto",
+      "titulo": "E quando o encanto passa?",
+      "texto": "A desilusão não é\no fim do amor.\n\nPode ser o começo\ndo amor real,\naquele que se constrói\ndepois da idealização."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não é metade\nde ninguém.",
+      "texto": "Salve para lembrar\nquando alguém disser o contrário."
+    }
+  ],
+  "legenda": "Quanto disso você aprendeu em filme, novela e conversa de família?\n\nNão é culpa sua ter acreditado. Mas dá para olhar de novo, com os olhos de hoje.\n\nQual dessas três ideias mais pesou na sua história?\n\n#amorproprio #relacionamento #mulheres40mais #autoestimafeminina #amorromantico",
+  "observacao_interna": "A Mulher Que Se Entende, Pilar 5: quadro 'Mitos Modernos do Amor Romântico' (amor verdadeiro não exige esforço; minha metade me completa; ciúme é prova de amor) e 'O Ciclo do Amor: da Idealização ao Amor Maduro' ('A desilusão não é o fim do amor, é o começo do amor real'). Abertura: contraste isso x aquilo."
+}
