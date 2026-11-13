@@ -13,6 +13,9 @@ data,id,pauta_id,ebook,tipo,tema,horario,permalink,reach,saved,shares,likes,comm
 2026-11-10,2026-11-10-03,P029,101,carrossel,rose,19:00,https://www.instagram.com/p/Dfk7pKHGo01/,5,0,0,0,0
 2026-11-11,2026-11-11-01,P015,DETOX,carrossel,papel,06:00,https://www.instagram.com/p/DfmHLVLjS8P/,4,0,0,0,0
 2026-11-11,2026-11-11-02,P038,MQSE,estatico,cafe,11:00,https://www.instagram.com/p/Dfmpcq5l9nY/,4,0,0,1,0
-2026-11-11,2026-11-11-03,P045,MLI,carrossel,rose,19:00,https://www.instagram.com/p/DfngdKUl4DS/,2,0,0,1,0
-2026-11-12,2026-11-12-01,P013,PNSR,carrossel,papel,06:00,https://www.instagram.com/p/Dfor_2Wj6qD/,2,0,0,0,0
-2026-11-12,2026-11-12-02,P027,DETOX,estatico,cafe,11:00,https://www.instagram.com/p/DfpOPgsE55f/,2,0,0,0,0
+2026-11-11,2026-11-11-03,P045,MLI,carrossel,rose,19:00,https://www.instagram.com/p/DfngdKUl4DS/,3,0,0,1,0
+2026-11-12,2026-11-12-01,P013,PNSR,carrossel,papel,06:00,https://www.instagram.com/p/Dfor_2Wj6qD/,4,0,0,0,0
+2026-11-12,2026-11-12-02,P027,DETOX,estatico,cafe,11:00,https://www.instagram.com/p/DfpOPgsE55f/,4,0,0,0,0
+2026-11-12,2026-11-12-03,P034,101,carrossel,rose,19:00,https://www.instagram.com/p/DfqFPU3DRTb/,3,0,0,0,0
+2026-11-13,2026-11-13-01,P040,MQSE,carrossel,papel,06:00,https://www.instagram.com/p/DfrQwhWDUyB/,2,0,0,0,0
+2026-11-13,2026-11-13-02,P048,MLI,estatico,cafe,11:00,https://www.instagram.com/p/DfrzCiIjS8i/,2,0,0,0,0
