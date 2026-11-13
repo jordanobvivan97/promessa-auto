@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-14-01",
+  "pauta_id": "P021",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para a mulher que espera resposta",
+      "titulo": "Para a mulher que está com o dedo em cima do botão de enviar.",
+      "subtitulo": "Espere 90 segundos. Só isso."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Eu sei como é.",
+      "texto": "Ele sumiu de novo.\nA mensagem está pronta.\n\nE a vontade de mandar\nparece maior que tudo."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Toda onda tem fim.",
+      "texto": "Uma emoção forte costuma\ndurar cerca de 90 segundos\nantes de começar a baixar.\n\nEla passa.\nMesmo quando parece\nque não vai passar."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Nesses 90 segundos:",
+      "itens": [
+        "Afaste o celular da mão.",
+        "Deixe o tempo passar, devagar.",
+        "Faça uma coisa pequena\npor você: um café,\na janela aberta, uma música."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Depois da onda",
+      "texto": "Muitas vezes,\na mensagem perde a pressa.\n\nE se ainda fizer sentido,\nagora é escolha,\nnão impulso."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não precisa agir\nno meio da onda.",
+      "texto": "Salve para a próxima vez\nque ele sumir."
+    }
+  ],
+  "legenda": "Quem já mandou uma mensagem no impulso e se arrependeu dez minutos depois sabe o peso disso.\n\nA pausa não é para castigar ninguém. É para você voltar a se ouvir antes de agir.\n\nO que você costuma fazer quando a vontade de mandar mensagem aperta?\n\n#dependenciaemocional #amorproprio #mulheres40mais #relacionamento #autoestimafeminina",
+  "observacao_interna": "Detox da Dependência Emocional, Práticas para parar de perseguir: 'A pausa de 90 segundos' (impulso de mandar mensagem, ligar ou checar redes; emoção intensa dura cerca de 90 segundos antes de dissipar; você não precisa agir nela) e 'Redirecione para você mesma' (lista de atividades que te fazem sentir presente). Evitei o item 'Escreva antes de agir' para não repetir P027 (12/11). Abertura: carta."
+}

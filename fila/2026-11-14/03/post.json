@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-14-03",
+  "pauta_id": "P039",
+  "ebook": "MQSE",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Repare na volta para casa",
+      "titulo": "Depois de encontrar aquela amiga, você volta mais leve ou mais cansada?",
+      "subtitulo": "Quatro sinais de cada lado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Amizade que nutre",
+      "texto": "Você sai do encontro\nmais você.\n\nE tem troca dos dois lados:\nas duas oferecem,\nas duas recebem."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Amizade que nutre",
+      "texto": "Ela comemora\nas suas conquistas\nde verdade.\n\nE o silêncio entre vocês\né confortável."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Amizade que drena",
+      "texto": "Você volta para casa\nmenor, esgotada.\n\nO elogio dela vem\ncom gosto de crítica."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Amizade que drena",
+      "texto": "O seu problema\né sempre pequeno.\nO dela, sempre urgente.\n\nE você ensaia o que vai dizer\npara evitar reação."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Ninguém dá conta de tudo",
+      "texto": "Uma amiga para a rotina.\nOutra para confidências.\nOutra que te inspira.\n\nCada uma nutre um pedaço\nde quem você é."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Repare com quem\nvocê volta inteira.",
+      "texto": "Envie para a amiga\nque te deixa mais leve."
+    }
+  ],
+  "legenda": "Quando a vida a dois ocupa tudo, as amizades ficam para depois. E às vezes ficam justamente as que mais cansam.\n\nNão é sobre cortar ninguém. É sobre perceber perto de quem você se sente você.\n\nQual desses sinais você reconheceu numa amizade sua?\n\n#amizadefeminina #amorproprio #mulheres40mais #autoconhecimento #autoestimafeminina",
+  "observacao_interna": "A Mulher Que Se Entende, Pilar 6: 'Amizades que Nutrem' x 'Amizades que Drenam' (quatro sinais de cada lado, adaptados) e 'Perfis de Amizade Feminina' (você não precisa encontrar tudo em uma só amiga). Abertura: pergunta direta."
+}
