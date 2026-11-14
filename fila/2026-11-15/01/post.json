@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-15-01",
+  "pauta_id": "P003",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma noite comum",
+      "titulo": "Ele disse algo\nque doeu.\nEla abriu a boca\npara responder.\nE fechou.",
+      "subtitulo": "O ciclo quase sempre começa em silêncio."
+    },
+    {
+      "layout": "lista",
+      "titulo": "As três primeiras fases",
+      "itens": [
+        "Tensão: algo incomoda.",
+        "Evitação: \"não vale a pena\ncriar problema\".",
+        "Ceder: ela recua, concorda\nou pede desculpa\npara manter a paz."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "4. O alívio que engana",
+      "texto": "A tensão baixa.\nO cérebro registra:\nceder trouxe alívio.\n\nMas o problema\nnão foi resolvido.\nSó foi adiado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "5. A mochila",
+      "texto": "Cada coisa não dita\nvira uma pedrinha.\n\nUma, você nem sente.\nDepois de anos,\na mochila pesa demais."
+    },
+    {
+      "layout": "texto",
+      "titulo": "6 e 7. Ruptura e paz",
+      "texto": "Um dia, a explosão\nou o afastamento.\nPara quem vê de fora,\nparece exagero.\n\nDepois, a paz volta.\nE tudo recomeça."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Dá para interromper",
+      "texto": "Em qualquer fase.\nQuanto mais cedo,\nmais fácil.\n\nNa tensão, pergunte:\n\"Isso é importante\npara mim?\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Em qual fase\nvocê está hoje?",
+      "texto": "Salve e volte aqui\nna próxima vez que\nengolir uma frase."
+    }
+  ],
+  "legenda": "Ninguém entra nesse ciclo de propósito. Cada fase parece razoável sozinha. Juntas, viram uma armadilha.\n\nReconhecer a fase em que você está já é um começo. Não precisa ser perfeito, precisa ser consciente.\n\nEm qual dessas fases você costuma ficar presa?\n\n#autoestimafeminina #mulheres40mais #relacionamento #amorproprio #limites",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento: 'O Ciclo Completo em 7 Fases' (tensão, evitação, ceder, alívio temporário, acúmulo, ruptura, reconciliação), 'Fases 5, 6 e 7' (metáfora da mochila de pedrinhas) e 'Os Pontos de Ruptura' (interromper em qualquer ponto; quanto mais cedo, mais fácil; 'Isso é importante para mim?'; 'não precisa ser perfeito, precisa ser consciente'). Não usei a frase 'a reconciliação é o reinício' para não gastar P005. Abertura: cena curta em terceira pessoa."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-15-03",
+  "pauta_id": "P024",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para a mulher que estranha a calma",
+      "titulo": "Para a mulher que\nacha sem graça\no homem que\nresponde na hora.",
+      "subtitulo": "Talvez não seja falta de química."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Repare nisso",
+      "texto": "O que some e volta\nprende a sua atenção.\n\nO que é constante\nparece morno.\nAté sem graça."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Familiar não é\no mesmo que certo",
+      "texto": "O que é familiar\npara o seu corpo\nparece certo.\n\nMesmo quando dói."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Calor e frio",
+      "texto": "Às vezes presente,\nàs vezes distante.\n\nEssa incerteza\nnão diminui a vontade.\nAumenta."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Por isso a angústia\nparece amor",
+      "texto": "Porque é intensa.\nPorque é conhecida.\n\nTalvez desde\nmuito cedo."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Uma pergunta honesta",
+      "texto": "\"Eu quero\nessa pessoa?\n\nOu eu quero resolver\numa ferida antiga?\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Amor tranquilo\nnão é amor fraco.",
+      "texto": "Envie para uma amiga\nque precisa ler isso hoje."
+    }
+  ],
+  "legenda": "Muita mulher passa anos achando que só é amor quando tem angústia junto. Não é defeito seu. É o que ficou familiar.\n\nPerceber quando você está reagindo ao familiar, e não ao que te faz bem, já muda alguma coisa.\n\nVocê já estranhou alguém por ser tranquilo demais?\n\n#dependenciaemocional #amorproprio #mulheres40mais #relacionamento #autoestimafeminina",
+  "observacao_interna": "Detox da Dependência Emocional, 'Por que perseguimos quem não está disponível': o familiar vs. o saudável (o que é familiar ao sistema nervoso parece certo mesmo que cause dor; amor ansioso parece amor porque é intenso, como pode ter sido na infância), a recompensa intermitente sem jargão (às vezes presente, às vezes distante; a incerteza aumenta o desejo) e a pergunta 'Eu quero essa pessoa ou quero resolver uma ferida antiga?'. Evitei 'slot machine' e 'apego ansioso'. Abertura: carta."
+}
