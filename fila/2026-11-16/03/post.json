@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-16-03",
+  "pauta_id": "P036",
+  "ebook": "MQSE",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma pergunta para hoje",
+      "titulo": "Essa reação\né de agora\nou de antes?",
+      "subtitulo": "Sentir muito não é fraqueza."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Nem toda emoção forte\né descontrole",
+      "texto": "Dá para sentir\ncom intensidade\ne ainda assim\nenxergar com clareza."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Reatividade",
+      "texto": "Resposta rápida,\nno automático.\n\nMuitas vezes movida\npelo passado,\nnão pelo que está\nacontecendo agora.\n\nDepois vem\no arrependimento."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Profundidade",
+      "texto": "Sentir tudo,\nsem fugir.\n\nE ainda assim\nentender antes\nde responder.\n\nIsso se aprende.\nCom prática."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Na próxima vez",
+      "texto": "Quando a emoção\nsubir de repente,\npergunte, sem se julgar:\n\n\"Isso é resposta\nao presente\nou ao passado?\""
+    },
+    {
+      "layout": "lista",
+      "titulo": "Para fazer hoje à noite",
+      "itens": [
+        "Lembre de uma reação\nforte que você teve hoje.",
+        "Faça a pergunta:\npresente ou passado?",
+        "Anote o que perceber.\nSó isso."
+      ]
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Sentir muito\nnão é defeito.",
+      "texto": "Envie para uma amiga\nque vive se culpando\npor sentir demais."
+    }
+  ],
+  "legenda": "Às vezes a gente reage a uma frase de hoje com uma dor de muito tempo atrás.\n\nPerceber isso não apaga o que você sente. Só te dá um segundo a mais para escolher o que fazer com isso.\n\nVocê costuma perceber quando a reação fica maior que a situação?\n\n#autoconhecimento #amorproprio #mulheres40mais #relacionamento #autoestimafeminina",
+  "observacao_interna": "A Mulher Que Se Entende, 'Reatividade Emocional x Profundidade Emocional': reatividade é resposta rápida e automática, frequentemente impulsionada pelo passado, não pelo presente, e pode gerar arrependimento; profundidade é sentir com intensidade e ainda assim processar com clareza, competência que se desenvolve com prática; 'Sentir muito não é fraqueza'; 'Coloque em prática hoje': observar uma reação do dia e perguntar sem julgamento 'Isso é uma resposta ao presente ou ao passado?', anotar. Abertura: pergunta direta."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-16-01",
+  "pauta_id": "P030",
+  "ebook": "101",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para guardar no celular",
+      "titulo": "Quatro jeitos\nde dizer não\nsem se explicar.",
+      "subtitulo": "Um não firme respeita mais que um sim forçado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Por que é tão difícil",
+      "texto": "Para muita mulher,\ndizer não parece\ningratidão. Ou egoísmo.\n\nEntão ela explica,\nse justifica,\npede desculpa.\nE acaba dizendo sim."
+    },
+    {
+      "layout": "texto",
+      "titulo": "1. O não simples",
+      "texto": "\"Não, obrigada.\nNão vou conseguir\ndessa vez.\"\n\nSem motivo.\nSem discurso."
+    },
+    {
+      "layout": "texto",
+      "titulo": "2. Quando pedem\numa explicação",
+      "texto": "\"Eu não preciso\nde um motivo\npara dizer não.\nMinha resposta é não.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "3. Quando insistem",
+      "texto": "\"Eu já respondi.\nMinha resposta\ncontinua sendo não.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "4. Quando usam\na culpa",
+      "texto": "\"Eu entendo que\nvocê ficou frustrado.\nMas culpa não vai\nmudar minha resposta.\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual delas\nvocê precisava\nter dito ontem?",
+      "texto": "Salve para ter\na frase pronta\nna próxima vez."
+    }
+  ],
+  "legenda": "Às vezes a gente explica tanto um não que ele termina virando sim.\n\nVocê não precisa de um bom motivo para recusar. Dizer não para o que te esgota é dizer sim para o que te sustenta.\n\nQual dessas frases é a mais difícil de sair da sua boca?\n\n#conversasdificeis #limites #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "101 Scripts Para Conversas Difíceis, capítulo 6 'Scripts Para Dizer Não': abertura do capítulo (dizer não parece ingratidão, abandono, egoísmo; 'Um não dito com firmeza é mais respeitoso que um sim forçado'; 'Dizer não para o que te esgota é dizer sim para o que te sustenta') e scripts 71 (o não simples e completo), 72 (quando pressionam por explicação), 73 (quando insistem) e 78 (quando usam culpa). Abertura: lista prática."
+}
