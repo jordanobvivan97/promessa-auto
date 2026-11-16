@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-17-01",
+  "pauta_id": "P025",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma carta",
+      "titulo": "Para a mulher\nque acordou às três\nda manhã pensando nele.",
+      "subtitulo": "Guarde estas frases para essa hora."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Eu sei como é",
+      "texto": "A casa em silêncio.\nO celular na mão.\nA vontade de escrever\nsó mais uma vez.\n\nNessa hora, tudo\no que você entendeu\nparece sumir."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Uma âncora\nnão resolve tudo",
+      "texto": "Mas interrompe\na queda.\n\nDá a você algo\npara segurar\nenquanto a onda passa."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Para quando o impulso vier:",
+      "itens": [
+        "\"O que estou sentindo agora vai passar. Não preciso agir nesse impulso.\"",
+        "\"Meu valor não depende\nda resposta dele.\"",
+        "\"Eu não preciso perseguir o que deveria vir naturalmente.\""
+      ]
+    },
+    {
+      "layout": "lista",
+      "titulo": "Para quando a saudade apertar:",
+      "itens": [
+        "\"Posso sentir saudade e ainda assim escolher a mim mesma.\"",
+        "\"Ceder de medo não é amor.\nÉ ansiedade disfarçada.\"",
+        "\"Eu já sobrevivi a antes. Vou sobreviver a agora também.\""
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Como usar",
+      "texto": "Escolha uma só.\nEscreva à mão\nnum papel pequeno.\n\nDeixe na carteira\nou no espelho.\nE leia em voz alta.\nTrês vezes."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual delas\nvocê precisa\nler hoje?",
+      "texto": "Salve para ter\nà mão na próxima\nnoite difícil."
+    }
+  ],
+  "legenda": "Tem noite em que a saudade fala mais alto do que tudo o que você já entendeu.\n\nRecair não é falhar. É ser humana. Só não precisa ser no impulso.\n\nQual dessas frases você colaria no espelho?\n\n#dependenciaemocional #amorproprio #mulheres40mais #autoestimafeminina #autoconhecimento",
+  "observacao_interna": "Detox da Dependência Emocional, Capítulo 9 'Frases âncora para momentos de recaída': abertura ('A recaída emocional faz parte do processo. Não é falha, é humanidade'; 'Uma âncora não resolve tudo. Mas ela interrompe a queda livre'), Frases âncora Grupos 1, 2 e 3 (texto literal; travessão de 'Ceder de medo não é amor' trocado por ponto) e 'Coloque em prática hoje' (escrever à mão num papel pequeno, carteira ou espelho, ler em voz alta três vezes). 'Três da manhã' é a moldura da carta, não dado do ebook. Não usei a explicação do sistema nervoso parassimpático (jargão). Abertura: carta."
+}

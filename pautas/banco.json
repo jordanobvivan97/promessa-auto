@@ -57,6 +57,12 @@
     {"id": "P047", "ebook": "MLI", "tema": "Família não é cheque em branco", "formato": "carrossel", "angulo": "frases para opiniões não pedidas"},
     {"id": "P048", "ebook": "MLI", "tema": "Você não é responsável pelo humor dele", "formato": "estatico", "angulo": "limite emocional"},
     {"id": "P049", "ebook": "MLI", "tema": "Não peça permissão para ter limite", "formato": "carrossel", "angulo": "4 dicas para comunicar"},
-    {"id": "P050", "ebook": "MLI", "tema": "Não é a frase mais completa que existe", "formato": "estatico", "angulo": "frase curta"}
+    {"id": "P050", "ebook": "MLI", "tema": "Não é a frase mais completa que existe", "formato": "estatico", "angulo": "frase curta"},
+    {"id": "P051", "ebook": "101", "tema": "Voltar depois da briga sem se diminuir", "formato": "carrossel", "angulo": "reconciliar de um lugar diferente, não do mesmo lugar de antes (scripts 83 a 92)"},
+    {"id": "P052", "ebook": "101", "tema": "Reconciliar é coragem quando vem da escolha", "formato": "estatico", "angulo": "escolha x medo"},
+    {"id": "P053", "ebook": "MQSE", "tema": "A desilusão não é o fim do amor", "formato": "carrossel", "angulo": "idealização, desilusão, reconstrução, amor maduro"},
+    {"id": "P054", "ebook": "MLI", "tema": "Seu tempo não é de ninguém por direito", "formato": "carrossel", "angulo": "tempo como o recurso mais precioso; ninguém tem direito automático a ele"},
+    {"id": "P055", "ebook": "PNSR", "tema": "Não preciso que você concorde, preciso que você me ouça", "formato": "carrossel", "angulo": "scripts para quando há defensividade (19 a 21)"},
+    {"id": "P056", "ebook": "PNSR", "tema": "Frases de emergência para o meio da conversa", "formato": "carrossel", "angulo": "Ainda não terminei; Não vou continuar nesse tom; Posso recomeçar?"}
   ]
 }

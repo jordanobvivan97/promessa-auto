@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-17-03",
+  "pauta_id": "P047",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Um domingo qualquer",
+      "titulo": "No almoço\nde família,\nalguém opinou\nsobre a vida dela.\nDe novo.",
+      "subtitulo": "Ela sorriu. E engoliu."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A cena",
+      "texto": "\"Você ainda não\nresolveu isso?\"\n\nTodo mundo olhou.\nEla mudou de assunto.\nE voltou para casa\ncom aquilo atravessado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Família não é\ncheque em branco",
+      "texto": "Amor não justifica\ninvasão.\n\nNem da sua privacidade.\nNem das suas decisões.\nNem do seu espaço."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Para opiniões\nnão pedidas",
+      "texto": "\"Agradeço sua\npreocupação.\nMas essa decisão\njá está tomada.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Para cobranças\nque não acabam",
+      "texto": "\"Faço o que posso\ndentro das minhas\npossibilidades.\nE não vou me culpar\npor isso.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Para visitas\nsem aviso",
+      "texto": "\"Preciso que me\navisem antes de vir.\nSenão, pode ser que\neu não esteja\nem condições\nde receber.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que sobrevive",
+      "texto": "Amor de verdade\nsobrevive a limites.\n\nO que não sobrevive\né a relação em que\nsó uma pessoa\nse curva."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual frase\nvocê precisava\nno último almoço?",
+      "texto": "Envie para aquela\namiga que também\nvive isso."
+    }
+  ],
+  "legenda": "Com família, dizer não vem carregado de culpa, história e expectativa.\n\nMas você pode discordar sem ser punida por isso. Sua vida adulta é sua.\n\nQual opinião não pedida você mais escuta?\n\n#limites #familia #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "Manual dos Limites Inegociáveis, Capítulo 5 'Três áreas onde mulheres mais se perdem' (Família: 'Família não é cheque em branco. Amor não justifica invasão, de privacidade, de decisões ou de espaço físico'), 'Limites com a família' (abertura: culpa, história e expectativas; 'amor de verdade sobrevive a limites. O que não sobrevive é uma relação onde apenas uma pessoa se curva'; scripts de opiniões não pedidas e visitas sem aviso), 'Frases prontas, Com a família' (cobranças excessivas) e checklist 'Seus limites com a família' (discordar sem ser punida; vida adulta é responsabilidade sua). A cena do almoço é ilustrativa. Abertura: cena curta em terceira pessoa."
+}
