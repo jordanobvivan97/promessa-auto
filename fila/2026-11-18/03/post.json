@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-18-03",
+  "pauta_id": "P017",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma carta",
+      "titulo": "Para a mulher\nque acha que\nsofrer tanto\né prova de que\nama demais.",
+      "subtitulo": "Sofrer muito e amar muito são coisas diferentes."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Eu sei de onde\nvem essa ideia",
+      "texto": "\"Se dói tanto pensar\nem perder ele,\né porque eu amo\nde verdade.\"\n\nParece fazer sentido.\nMas mistura duas coisas\nmuito diferentes."
+    },
+    {
+      "layout": "lista",
+      "titulo": "O que parece amor,\nmas é medo:",
+      "itens": [
+        "Ficar vigiando o tempo todo.",
+        "Ter medo de ser deixada.",
+        "Checar. E checar de novo.",
+        "Precisar ouvir, toda hora,\nque está tudo bem."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que isso mostra",
+      "texto": "Que a sua paz\npassou a depender\nda presença dele.\nOu da aprovação dele.\n\nQue, em algum lugar,\nvocê não se sente segura\npara simplesmente ser."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Não é defeito seu",
+      "texto": "É o que acontece\nquando a gente busca\ndo lado de fora\no que precisa ser\nconstruído por dentro.\n\nIsso não é julgamento.\nÉ compreensão."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Uma prática\npara esta noite",
+      "texto": "Escreva três momentos\nem que você sentiu\nmedo de ele ir embora.\n\nPara cada um, pergunte:\nesse medo me aproximou\nde mim ou me afastou?\n\nSó nomear já é um passo."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Esse medo\nte aproximou\nou te afastou\nde você?",
+      "texto": "Envie para uma amiga\nque confunde\nsofrer com amar."
+    }
+  ],
+  "legenda": "Amor não se mede pelo tamanho da dor.\n\nQuando o medo de perder ocupa tudo, talvez não seja amor demais. Talvez seja você ficando longe de você.\n\nVocê já confundiu as duas coisas?\n\n#dependenciaemocional #amorproprio #mulheres40mais #autoestimafeminina #relacionamento",
+  "observacao_interna": "Detox da Dependência Emocional, Capítulo 2 'Apego não é prova de amor' (a crença 'se eu sofro tanto com a ideia de perdê-lo, é porque amo de verdade'; vigilância constante, medo de abandono, checagens, necessidade de reasseguramento; regulação emocional dependente da presença ou aprovação do outro; 'não se sente segura o suficiente para simplesmente ser'; prática 'Coloque em prática hoje' com as três situações) e 'O paradoxo da busca' ('saciada por fora o que precisa ser construído por dentro'; 'Isso não é julgamento. É compreensão.'). Evitei 'apego ansioso' e 'regulação emocional' (jargão) e o título 'prova de amor' isolado, porque 'Ciúme é prova de amor' foi título de slide em 13/11. Abertura: carta."
+}

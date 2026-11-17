@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-18-01",
+  "pauta_id": "P010",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Antes da próxima conversa",
+      "titulo": "Você sabe\no que quer dizer.\nMas, na hora,\nsai tudo misturado?",
+      "subtitulo": "Quatro palavras ajudam a organizar."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A estrutura",
+      "texto": "Quando.\nSinto.\nPorque.\nPreciso.\n\nUma parte de cada vez.\nSem atacar.\nSem pedir desculpa."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando...",
+      "texto": "Conte o que aconteceu.\nDe forma objetiva,\nsem julgamento.\n\n\"Quando você mexe\nno celular enquanto\nestou falando...\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sinto...",
+      "texto": "Diga o nome\ndo que você sentiu.\nSó isso.\n\n\"...sinto tristeza\ne solidão...\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Porque...",
+      "texto": "Explique por que\nisso importa para você.\n\n\"...porque me faz sentir\nque o que eu digo\nnão tem valor...\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Preciso...",
+      "texto": "Faça um pedido claro.\nEspecífico.\n\n\"...e preciso que você\ndeixe o celular de lado\nquando a gente\nestá conversando.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Antes de falar,\nescreva",
+      "texto": "Pense numa situação\nreal que te incomoda.\nMonte a frase no papel.\n\nNão precisa dizer ainda.\nSó escrever já mostra\no que você quer dizer."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual situação\nvocê colocaria\nnessa frase?",
+      "texto": "Salve para montar\na sua com calma."
+    }
+  ],
+  "legenda": "Tem hora que a gente sabe muito bem o que está doendo. Mas, quando abre a boca, sai tudo de uma vez. Ou não sai nada.\n\nQuando, sinto, porque, preciso. Uma parte de cada vez.\n\nEm qual situação você usaria essa frase primeiro?\n\n#relacionamento #comunicacao #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'A Fórmula: Quando… Sinto… Porque… Preciso…' (definições de cada parte e exemplo completo do celular, texto quase literal) e 'A Fórmula do Limite Claro', bloco 'Coloque em prática hoje' (escolher situação real, escrever, não precisa falar ainda; travessão original removido). Não usei o contraste 'me respeite mais' para não gastar P009. Abertura: pergunta direta."
+}
