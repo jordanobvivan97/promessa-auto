@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-19-02",
+  "pauta_id": "P014",
+  "ebook": "PNSR",
+  "tipo": "estatico",
+  "horario": "11:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "frase",
+      "etiqueta": "Quando a conversa esquenta, diga:",
+      "texto": "\"Preciso de 20 minutos\npara me acalmar.\nDepois a gente volta\na conversar.\"",
+      "assinatura": "pedir pausa não é fugir da conversa"
+    }
+  ],
+  "legenda": "Tem conversa que chega num ponto em que ninguém escuta mais ninguém. Continuar ali costuma machucar mais do que resolver.\n\nEm vez de \"estou saindo daqui\", tente: \"Preciso de 20 minutos para me acalmar. Depois voltamos a conversar.\"\n\nPedir uma pausa não é fugir. É garantir que a conversa aconteça de verdade.\n\nVocê consegue pedir esse tempo, ou costuma ficar até o fim mesmo sem condição?\n\n#relacionamento #conversasdificeis #comunicacao #mulheres40mais #amorproprio",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'O Time-Out e as Tentativas de Reparo' ('Não diga: Estou saindo daqui. Diga: Preciso de 20 minutos para me acalmar. Depois voltamos a conversar.'; 'Pedir uma pausa não é fugir da conversa. É garantir que ela aconteça de forma produtiva.'). Não usei o dado de frequência cardíaca. Abertura: frase pronta (script), diferente dos estáticos de contraste de 16/11 e 18/11."
+}

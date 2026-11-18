@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-19-03",
+  "pauta_id": "P046",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Limites com dinheiro",
+      "titulo": "3 frases para\nquando o assunto\né dinheiro\ne você sempre cede.",
+      "subtitulo": "Emprestar sem limite costuma virar ressentimento."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Por que isso pesa",
+      "texto": "Emprestar, ceder,\npagar pelo outro\nsem reciprocidade\ncria desequilíbrio.\n\nSeu dinheiro\nrepresenta\na sua liberdade."
+    },
+    {
+      "layout": "texto",
+      "titulo": "1. Quando a família\npede emprestado",
+      "texto": "\"Não tenho o costume\nde emprestar dinheiro,\nporque isso costuma\nmudar as relações.\nSe quiser, posso ajudar\nde outra forma.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "2. Quando as contas\npesam só de um lado",
+      "texto": "\"Precisamos conversar\nsobre como estamos\ndividindo as despesas.\nSinto que está\ndesequilibrado\ne quero alinhar isso.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "3. Quando insistem\ndepois do não",
+      "texto": "\"Entendo que você precisa,\nmas minha resposta é não.\nNão preciso me justificar\nalém disso.\""
+    },
+    {
+      "layout": "lista",
+      "titulo": "Pergunte a si mesma:",
+      "itens": [
+        "Empresto para quem\nnão costuma devolver?",
+        "Pago contas que não são\nminhas por pressão?",
+        "Sei o que posso e o que\nnão posso oferecer?",
+        "Consigo dizer não\nsem me sentir culpada?"
+      ]
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual dessas\nfrases você\nprecisava ter dito\nhá muito tempo?",
+      "texto": "Envie para uma amiga\nque sempre acaba\npagando a conta."
+    }
+  ],
+  "legenda": "Dinheiro é um dos lugares onde a gente mais cede sem perceber. Um empréstimo aqui, uma conta paga ali, e de repente o peso está todo de um lado.\n\nDizer não a um pedido de dinheiro não faz de você uma pessoa fria. Faz de você alguém que cuida do que é seu.\n\nQual dessas situações aparece mais na sua vida?\n\n#limites #relacionamento #amorproprio #mulheres40mais #autoestimafeminina",
+  "observacao_interna": "Manual dos Limites Inegociáveis, Capítulo 5 'Três áreas onde mulheres mais se perdem' (Dinheiro: emprestar, ceder, pagar pelo outro sem reciprocidade cria desequilíbrio; seu dinheiro representa sua liberdade), quadro 'Limites com dinheiro' (três frases quase literais: empréstimos familiares, gastos do casal desbalanceados, pressão para ceder) e checklist 'Seus limites com dinheiro' (reescrito em perguntas). Abertura: lista prática."
+}

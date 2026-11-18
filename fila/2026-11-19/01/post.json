@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-19-01",
+  "pauta_id": "P023",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "papel",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre carência",
+      "titulo": "Domingo à noite.\nA casa em silêncio.\nVeio aquele vazio.\nE ela pensou:\n\"Carente de novo.\"",
+      "subtitulo": "Como se sentir falta fosse defeito."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Carência não\nnasce do nada",
+      "texto": "Ela nasce da ausência.\n\nDa fome de afeto\nque não falha.\nDe presença segura.\nDe um carinho\nque não some\nsem explicação."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Não é falha.\nÉ uma mensagem.",
+      "texto": "Ela avisa que existe\numa necessidade legítima\nque não está sendo atendida.\n\nNem pela relação.\nNem por você mesma."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Antes de correr\natrás dele, pergunte:\nque necessidade é essa?",
+      "itens": [
+        "Segurança?",
+        "Reconhecimento?",
+        "Carinho, toque, abraço?",
+        "Conversa de verdade?"
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando você sabe\no nome dela",
+      "texto": "Você passa a ter escolhas.\n\nPode pedir de forma direta,\nsem ansiedade.\nPode buscar em outras\npartes da sua vida.\nPode oferecer a si mesma\numa parte do que\nespera dele."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Para hoje",
+      "texto": "Lembre da última vez\nque a carência apertou.\n\nEm vez de se julgar,\npergunte:\n\"O que eu precisava\nde verdade naquela hora?\"\n\nEscreva a resposta honesta."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual dessas\nnecessidades\nfala mais alto\nem você?",
+      "texto": "Salve para voltar aqui\nquando o vazio vier."
+    }
+  ],
+  "legenda": "Sentir falta não faz de você uma mulher fraca. A carência é um aviso: tem alguma coisa importante faltando.\n\nAntes de se cobrar, vale perguntar o que exatamente está pedindo atenção.\n\nSegurança, reconhecimento, carinho ou conversa: qual delas você tem deixado de lado?\n\n#relacionamento #carenciaafetiva #amorproprio #mulheres40mais #autoconhecimento",
+  "observacao_interna": "Detox da Dependência Emocional, Capítulo 6 'O ciclo da carência' (a carência nasce da ausência, da fome de afeto consistente, de presença segura; bloco 'Coloque em prática hoje' com a pergunta 'O que eu realmente precisava naquele momento?') e quadro 'Carência não é falha, é uma mensagem' (O que a carência está dizendo; necessidades: segurança, reconhecimento, afeto físico, conexão intelectual; Como responder a ela). Evitei 'sistema nervoso' e 'figuras de apego' (jargão) e a frase 'amor conquistado todo dia' (já usada em P022). Abertura: cena curta."
+}

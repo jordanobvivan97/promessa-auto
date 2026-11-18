@@ -63,6 +63,10 @@
     {"id": "P053", "ebook": "MQSE", "tema": "A desilusão não é o fim do amor", "formato": "carrossel", "angulo": "idealização, desilusão, reconstrução, amor maduro"},
     {"id": "P054", "ebook": "MLI", "tema": "Seu tempo não é de ninguém por direito", "formato": "carrossel", "angulo": "tempo como o recurso mais precioso; ninguém tem direito automático a ele"},
     {"id": "P055", "ebook": "PNSR", "tema": "Não preciso que você concorde, preciso que você me ouça", "formato": "carrossel", "angulo": "scripts para quando há defensividade (19 a 21)"},
-    {"id": "P056", "ebook": "PNSR", "tema": "Frases de emergência para o meio da conversa", "formato": "carrossel", "angulo": "Ainda não terminei; Não vou continuar nesse tom; Posso recomeçar?"}
+    {"id": "P056", "ebook": "PNSR", "tema": "Frases de emergência para o meio da conversa", "formato": "carrossel", "angulo": "Ainda não terminei; Não vou continuar nesse tom; Posso recomeçar?"},
+    {"id": "P057", "ebook": "MLI", "tema": "Da dor ao limite", "formato": "carrossel", "angulo": "identificar a dor, reconhecer o padrão, nomear a necessidade, definir o comportamento inaceitável, estabelecer a resposta"},
+    {"id": "P058", "ebook": "MLI", "tema": "Aceito ser tratada mal porque ele estava estressado?", "formato": "estatico", "angulo": "limites afetivos: quanto eu me ausento de mim para estar com o outro"},
+    {"id": "P059", "ebook": "101", "tema": "Quando falam por você sem perguntar", "formato": "carrossel", "angulo": "scripts 57 a 63 (respeito em falta), sem repetir o script 60 já usado em P034"},
+    {"id": "P060", "ebook": "DETOX", "tema": "Migalhas de atenção", "formato": "carrossel", "angulo": "implorar por presença se disfarça de persistência e de amor incondicional (cap. 7, sem repetir a prática da mensagem não enviada de P027)"}
   ]
 }
