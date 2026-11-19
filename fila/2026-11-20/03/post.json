@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-20-03",
+  "pauta_id": "P041",
+  "ebook": "MQSE",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para ler com calma",
+      "titulo": "Relacionamento\nsaudável não é\nrelacionamento\nperfeito.",
+      "subtitulo": "Mas ele deixa sinais. Confira com você mesma."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Antes de começar",
+      "texto": "Use como referência,\nnão como julgamento.\n\nNenhum relacionamento\né perfeito.\nMas todos podem crescer."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Pergunte a si mesma:",
+      "itens": [
+        "Eu me sinto segura para ser quem sou, sem máscaras?",
+        "Os conflitos se resolvem sem ataques e sem silêncio que dura dias?",
+        "Tenho espaço para a minha vida, meus amigos e meus projetos?"
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "E também:",
+      "texto": "Nós dois crescemos,\nsem que um precise\ndiminuir o outro?\n\nExiste respeito\nmesmo nos dias difíceis?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "A pergunta\nmais honesta",
+      "texto": "Com tudo o que\nvocê sabe hoje,\n\nvocê escolheria\nessa pessoa de novo?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "Se a resposta travou",
+      "texto": "Não precisa decidir\nnada hoje.\n\nSó repare em qual\npergunta pesou mais.\nÉ por ali que vale\ncomeçar a olhar."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual dessas\nperguntas\nficou com você?",
+      "texto": "Salve para responder\ncom calma, só para você."
+    }
+  ],
+  "legenda": "Nenhum relacionamento é perfeito. Mas alguns sinais mostram se ele te deixa inteira ou te faz encolher.\n\nSegurança para ser quem é. Conflito sem ataque. Espaço para a sua vida. Respeito nos dias difíceis.\n\nE a pergunta mais honesta de todas: você escolheria essa pessoa de novo?\n\n#relacionamento #relacionamentosaudavel #amorproprio #mulheres40mais #autoconhecimento",
+  "observacao_interna": "A Mulher Que Se Entende, 'Checklist: Um Relacionamento Emocionalmente Saudável' ('Use como referência, não como julgamento. Nenhum relacionamento é perfeito, mas todos podem crescer.'; seis itens: segura para ser quem é sem máscaras; conflitos sem ataques ou silêncio prolongado; espaço para vida individual, amigos e projetos; ambos crescem sem um diminuir o outro; respeito consistente nos momentos difíceis; escolheria essa pessoa novamente com tudo o que sabe hoje). Slide 6 é convite à observação, sem diagnóstico. Abertura: lista prática (checklist), com capa em formato de afirmação para não repetir o '3 frases para' de 19/11."
+}

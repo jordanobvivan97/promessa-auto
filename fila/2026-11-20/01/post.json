@@ -1,0 +1,58 @@
+{
+  "id": "2026-11-20-01",
+  "pauta_id": "P026",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre recaída",
+      "titulo": "Você mandou\na mensagem\nde novo?",
+      "subtitulo": "Leia isto antes de se cobrar."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Isso tem nome:\nrecaída",
+      "texto": "Mandar a mensagem\nque não deveria.\nAbrir mão de um limite\nque você mesma colocou.\nVoltar a esperar\npelo celular.\n\nAcontece. E tudo bem."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Mudar não é\numa linha reta",
+      "texto": "É uma espiral.\n\nVocê passa pelo\nmesmo ponto várias vezes.\nMas a cada volta,\nchega com um pouco\nmais de consciência."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Depois de uma\nrecaída, não:",
+      "itens": [
+        "Se punir com dureza.",
+        "Concluir que \"nunca vou mudar\".",
+        "Usar isso como prova de que não merece coisa melhor.",
+        "Largar tudo porque não foi perfeito."
+      ]
+    },
+    {
+      "layout": "lista",
+      "titulo": "Em vez disso:",
+      "itens": [
+        "Olhe o que aconteceu, sem julgamento.",
+        "Descubra o que te puxou de volta.",
+        "Fale com você como falaria com uma amiga.",
+        "Recomece amanhã. Ou daqui a uma hora."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Para hoje",
+      "texto": "Escreva o que aconteceu\ne o que você sentiu.\n\nDepois, escreva a frase\nque você diria\npara uma amiga querida\nque passou pelo mesmo."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Nenhum passo\nem direção\na você mesma\nse perde.",
+      "texto": "Envie para a amiga\nque anda se cobrando demais."
+    }
+  ],
+  "legenda": "Uma recaída não apaga o caminho que você já fez.\n\nMudar é uma espiral: você volta ao mesmo ponto, mas nunca do mesmo jeito.\n\nO que você diria para uma amiga que acabou de recair? Agora diga para você.\n\n#relacionamento #dependenciaemocional #amorproprio #mulheres40mais #autoconhecimento",
+  "observacao_interna": "Detox da Dependência Emocional, 'Quando a recaída acontece' (mensagem que não deveria, limite abandonado, esperar pelo celular; processo em espiral; quadros 'O que não fazer' e 'O que fazer após uma recaída'; 'Nenhum esforço em direção a si mesma é perdido') e Conclusão, 'Coloque em prática hoje' (registrar a recaída sem julgamento e escrever uma frase de compaixão como para uma amiga). Troquei 'gatilho' por 'o que te puxou de volta'. Não usei o 'caminho neural' do PNSR (já em P012). Abertura: pergunta direta."
+}
