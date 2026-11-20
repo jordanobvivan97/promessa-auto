@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-21-03",
+  "pauta_id": "P063",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Para o fim do dia",
+      "titulo": "Para a mulher\nque engoliu hoje\no que queria dizer.",
+      "subtitulo": "Não precisa se criticar por isso."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Só observe",
+      "texto": "Você não precisa\nfazer diferente ainda.\n\nSó precisa\ncomeçar a ver.\n\nObservar sem julgamento\njá é o primeiro\nato de mudança."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Cinco perguntas\npara depois de\nse anular:",
+      "itens": [
+        "O que aconteceu logo antes?",
+        "O que você sentiu no corpo naquele momento?",
+        "O que você queria dizer ou fazer, e não disse nem fez?",
+        "O que você fez em vez disso?",
+        "Como você se sentiu depois?"
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Como usar",
+      "texto": "Responda de cabeça,\nna hora ou logo depois.\n\nSe preferir, escreva\nno caderno ou no celular.\n\nNão é para mudar nada.\nÉ para ver o que\nestava invisível."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Ver já é\num começo.",
+      "texto": "Salve para responder\nna próxima vez\nque você se calar."
+    }
+  ],
+  "legenda": "Da próxima vez que você se pegar se anulando, não se critique. Só observe.\n\nO que aconteceu antes, o que sentiu no corpo, o que queria dizer, o que fez em vez disso, como ficou depois.\n\nQual dessas perguntas é a mais difícil de responder para você?\n\n#relacionamento #autoconhecimento #amorproprio #mulheres40mais #limites",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'O Que Você Pode Fazer Agora' (as cinco perguntas de observação; 'Observar sem julgamento é o primeiro ato de mudança. Você não precisa fazer diferente ainda, só precisa começar a ver') e o 'Coloque em prática hoje' da mesma seção (responder mentalmente ou escrever no caderno ou celular; não é para mudar nada, é para ver o que estava invisível). Troquei 'desencadeou' por 'aconteceu logo antes'. Não usei o Paradoxo da Anulação (P007, 16/11). Abertura: carta."
+}

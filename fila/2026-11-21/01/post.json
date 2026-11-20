@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-21-01",
+  "pauta_id": "P060",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre migalhas",
+      "titulo": "Terceira mensagem.\nNenhuma resposta.\nEla olhou o celular\nde novo.",
+      "subtitulo": "E chamou isso de amor."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Migalha parece\nmelhor que silêncio",
+      "texto": "Horas com o celular\nna mão.\nUma resposta curta,\nquando vem.\n\nVocê aceita\nporque é melhor\ndo que nada.\n\nMas não é presença."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Implorar por presença\nquase nunca tem\nesse nome.\nEle se disfarça de:",
+      "itens": [
+        "Persistência.",
+        "Amor incondicional.",
+        "\"Não consigo parar de pensar nele.\""
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que está\npor baixo",
+      "texto": "Você espera que\noutra pessoa confirme\nque você vale a pena.\n\nE enquanto essa\nconfirmação vier de fora,\nquem decide se ela vem\nnão é você."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando você\npara de buscar",
+      "texto": "Algo muda.\nNem sempre nele.\nMas em você.\n\nVocê sai do lugar\nde quem suplica\ne começa a se tratar\ncom a dignidade\nque pede aos outros."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não precisa\nimplorar pelo que\ndeveria vir\nnaturalmente.",
+      "texto": "Salve para ler\nna próxima vez\nque pegar o celular."
+    }
+  ],
+  "legenda": "Implorar por presença quase nunca tem esse nome. Ele se disfarça de persistência, de amor incondicional, de \"não consigo parar de pensar nele\".\n\nMigalha de atenção pode parecer melhor que o silêncio. Mas não é o que você precisa.\n\nVocê já confundiu migalha com presença?\n\n#relacionamento #dependenciaemocional #amorproprio #mulheres40mais #autoconhecimento",
+  "observacao_interna": "Detox da Dependência Emocional, cap. 7 'Como parar de implorar por presença' (terceira mensagem sem resposta, horas com o celular na mão, migalhas de atenção melhores que o silêncio; o disfarce de persistência, amor incondicional, 'não consigo parar de pensar nele'; buscar de fora a confirmação de que vale a pena, à mercê de quem decide oferecê-la), 'A dignidade do silêncio' (sair da posição de suplicante, tratar-se com a dignidade que pede aos outros) e o subtítulo do capítulo no sumário ('não perseguir o que deveria vir naturalmente'). Não usei a mensagem não enviada (P027), a pausa de 90 segundos (P021), as frases âncora (P025) nem o 'amor conquistado é audiência' (P022). Abertura: cena curta."
+}
