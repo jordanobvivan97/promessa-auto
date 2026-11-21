@@ -73,6 +73,9 @@
     {"id": "P063", "ebook": "PNSR", "tema": "Cinco perguntas para depois de se anular", "formato": "carrossel", "angulo": "observar sem julgamento: o que desencadeou, o que sentiu no corpo, o que queria dizer, o que fez em vez disso, como se sentiu depois"},
     {"id": "P064", "ebook": "DETOX", "tema": "Apego saudável existe, e é diferente disso", "formato": "carrossel", "angulo": "permite solidão, tem reciprocidade, permite conflito, fortalece a identidade (amor aditivo, não substitutivo); sem repetir o cap. 2 já usado em P017"},
     {"id": "P065", "ebook": "101", "tema": "Nomear o desrespeito sem pedir desculpa", "formato": "carrossel", "angulo": "scripts 65, 66, 67, 69 e 70 (conquistas diminuídas, passado usado como arma, falar mal para outros, padrão, decidir que não aceita mais); sem repetir 64 e 68 já usados em P034"},
-    {"id": "P066", "ebook": "MLI", "tema": "Quatro perguntas para encontrar seus limites", "formato": "carrossel", "angulo": "o que me faz sentir invisível, o que fico tolerando, onde saio esgotada, o que sempre justifiquei e no fundo me magoa; responder em 3 linhas sem filtrar"}
+    {"id": "P066", "ebook": "MLI", "tema": "Quatro perguntas para encontrar seus limites", "formato": "carrossel", "angulo": "o que me faz sentir invisível, o que fico tolerando, onde saio esgotada, o que sempre justifiquei e no fundo me magoa; responder em 3 linhas sem filtrar"},
+    {"id": "P067", "ebook": "MQSE", "tema": "O amor que dura é construído, não apenas sentido", "formato": "estatico", "angulo": "frase do Pilar 5; intensidade x conexão real, sem repetir o recorte de P037"},
+    {"id": "P068", "ebook": "MLI", "tema": "Responder na hora não é obrigação, é escolha", "formato": "estatico", "angulo": "tempo de resposta e direito ao silêncio (cap. A comunicação como campo de batalha invisível); você não precisa estar disponível 24 horas"},
+    {"id": "P069", "ebook": "DETOX", "tema": "O amor expande, a dependência encolhe", "formato": "estatico", "angulo": "cap. 1: qualidade expansiva x contrativa (fazemos menos, sentimos mais medo, toleramos o que antes seria inaceitável); sem repetir os 5 sinais de P015"}
   ]
 }

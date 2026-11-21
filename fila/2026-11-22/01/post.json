@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-22-01",
+  "pauta_id": "P054",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre o seu tempo",
+      "titulo": "Quando foi\na última vez\nque um dia\nfoi só seu?",
+      "subtitulo": "Sem pedir licença para isso."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Ninguém tem\ndireito automático\nao seu tempo",
+      "texto": "Nem a família.\nNem o parceiro.\n\nSeu tempo é o recurso\nmais precioso\nque você tem.\n\nEntão por que\nele é sempre o primeiro\na ser entregue?"
+    },
+    {
+      "layout": "lista",
+      "titulo": "Onde ele\ncostuma escapar:",
+      "itens": [
+        "Pedidos de última hora que desfazem seus planos.",
+        "Pressão para estar sempre disponível.",
+        "Tarefas da casa que pesam só para um lado.",
+        "Eventos de família que nunca podem faltar."
+      ]
+    },
+    {
+      "layout": "lista",
+      "titulo": "Frases que cabem\nnessa hora:",
+      "itens": [
+        "\"Já tenho um compromisso nesse dia.\"",
+        "\"Preciso de aviso com antecedência para reorganizar minha agenda.\"",
+        "\"Esse tempo é meu e não estou disponível.\""
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Sem se justificar",
+      "texto": "Você não precisa\nexplicar por que\nnão está disponível.\n\n\"Minhas quartas-feiras\nsão para mim.\"\n\nIsso já é\numa resposta completa."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Seu tempo\nnão é sobra.\nÉ seu.",
+      "texto": "Pense em um pedido de última hora\nque você aceitou.\nComo responderia hoje?\nConte nos comentários."
+    }
+  ],
+  "legenda": "Seu tempo é o seu recurso mais precioso. Ninguém tem direito automático a ele: nem a família, nem o parceiro.\n\nUm pedido de última hora aceito por hábito parece pequeno. Somado, vira uma agenda inteira organizada em volta dos outros.\n\nQual pedido de última hora você aceitou essa semana sem querer?\n\n#limites #amorproprio #mulheres40mais #autocuidado #relacionamento",
+  "observacao_interna": "Manual dos Limites Inegociáveis, cap. 5 'Três áreas onde mulheres mais se perdem' (Tempo: recurso mais precioso, ninguém tem direito automático, nem familiares nem parceiros), 'Limites com o seu tempo' (situações comuns e as 3 frases que funcionam; prática do pedido de última hora), cap. 10 checklist tempo e energia ('não me sinto obrigada a justificar quando não estou disponível') e o exemplo 'Minhas quartas-feiras são para mim'. Não repete o recorte de dinheiro (P046) nem de família (P047). Abertura: pergunta direta."
+}
