@@ -76,6 +76,9 @@
     {"id": "P066", "ebook": "MLI", "tema": "Quatro perguntas para encontrar seus limites", "formato": "carrossel", "angulo": "o que me faz sentir invisível, o que fico tolerando, onde saio esgotada, o que sempre justifiquei e no fundo me magoa; responder em 3 linhas sem filtrar"},
     {"id": "P067", "ebook": "MQSE", "tema": "O amor que dura é construído, não apenas sentido", "formato": "estatico", "angulo": "frase do Pilar 5; intensidade x conexão real, sem repetir o recorte de P037"},
     {"id": "P068", "ebook": "MLI", "tema": "Responder na hora não é obrigação, é escolha", "formato": "estatico", "angulo": "tempo de resposta e direito ao silêncio (cap. A comunicação como campo de batalha invisível); você não precisa estar disponível 24 horas"},
-    {"id": "P069", "ebook": "DETOX", "tema": "O amor expande, a dependência encolhe", "formato": "estatico", "angulo": "cap. 1: qualidade expansiva x contrativa (fazemos menos, sentimos mais medo, toleramos o que antes seria inaceitável); sem repetir os 5 sinais de P015"}
+    {"id": "P069", "ebook": "DETOX", "tema": "O amor expande, a dependência encolhe", "formato": "estatico", "angulo": "cap. 1: qualidade expansiva x contrativa (fazemos menos, sentimos mais medo, toleramos o que antes seria inaceitável); sem repetir os 5 sinais de P015"},
+    {"id": "P070", "ebook": "101", "tema": "Dizer não para o que te esgota é dizer sim para o que te sustenta", "formato": "estatico", "angulo": "frase de abertura do cap. 6 (Scripts para dizer não); um não firme é mais respeitoso que um sim forçado; sem repetir o 'não simples e completo' de P030"},
+    {"id": "P071", "ebook": "MQSE", "tema": "O silêncio consciente é uma resposta inteira", "formato": "estatico", "angulo": "'A arte do silêncio estratégico': silêncio reativo fere, silêncio estratégico preserva e organiza; não confundir com punir pelo silêncio"},
+    {"id": "P072", "ebook": "101", "tema": "Eu vejo isso de forma diferente", "formato": "estatico", "angulo": "script 09 (expressar discordância) como frase curta; discordar sem pedir licença nem desculpa"}
   ]
 }

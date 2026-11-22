@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-23-01",
+  "pauta_id": "P006",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre reclamar",
+      "titulo": "A mesma queixa.\nDois jeitos\nde dizer.",
+      "subtitulo": "Um abre conversa. O outro fecha."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A crítica fala\nde quem ele é",
+      "texto": "Ela generaliza.\nAtaca o caráter.\n\n\"Você nunca ajuda\nem nada.\nVocê é egoísta.\"\n\nEla corrói."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A reclamação fala\ndo que aconteceu",
+      "texto": "Ela é específica.\nFala do comportamento\ne do que ele causou\nem você.\n\n\"Quando você não ajuda\ncom as tarefas da casa,\neu me sinto\nsobrecarregada e sozinha.\""
+    },
+    {
+      "layout": "lista",
+      "titulo": "Como trocar\numa pela outra:",
+      "itens": [
+        "Tire o \"sempre\" e o \"nunca\" da frase.",
+        "Descreva o que aconteceu, sem rótulo.",
+        "Diga o que isso causou em você.",
+        "Fale do comportamento, não do caráter."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Não é falar\nbaixinho",
+      "texto": "Reclamar assim\nnão é engolir a queixa\nnem fugir do assunto.\n\nÉ dizer o que dói\nde um jeito que\nabre espaço\npara a conversa."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Fale do que\naconteceu.\nNão de quem\nele é.",
+      "texto": "Pense em uma frase com\n\"sempre\" ou \"nunca\"\nque você disse ou ouviu.\nComo ficaria reescrita?\nConte nos comentários."
+    }
+  ],
+  "legenda": "Crítica não é o mesmo que reclamação.\n\nA crítica generaliza e ataca quem a pessoa é. A reclamação fala do que aconteceu e do que isso causou em você. Uma corrói. A outra abre diálogo.\n\nVale para o que você diz e para o que você ouve. Qual frase você reescreveria hoje?\n\n#relacionamento #comunicacao #amorproprio #mulheres40mais #autoconhecimento",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'Primeiro Cavaleiro: A Crítica' (crítica generaliza e ataca o caráter, reclamação é específica e aborda o comportamento; 'Uma corrói. A outra abre diálogo'; exemplos 'Você nunca ajuda em nada...' x 'Quando você não ajuda com as tarefas de casa, eu me sinto sobrecarregada e sozinha'; prática: reescrever algo que disse ou ouviu) e 'O Início Suave' ('sempre/nunca' como início agressivo; início suave não é ser passiva nem evitar o assunto). Não usei o dado de 96% do ebook. Não repete a fórmula Quando/Sinto/Porque/Preciso de P010. Abertura: contraste."
+}

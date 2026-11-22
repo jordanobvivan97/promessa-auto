@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-23-03",
+  "pauta_id": "P033",
+  "ebook": "101",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre conversas difíceis",
+      "titulo": "Antes de falar\ncom ele,\nfale com você.",
+      "subtitulo": "Quatro frases para guardar."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Antes\nda conversa",
+      "texto": "\"Eu mereço ser ouvida.\nEu tenho o direito\nde falar.\nO que eu sinto\né válido.\"\n\nVocê entra na conversa\njá do seu lado."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando estiver\nprestes a ceder",
+      "texto": "\"Espera.\nEu estou cedendo\nporque quero\nou porque tenho medo?\"\n\nVocê pode pausar.\nPode dizer não.\nPode escolher."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Depois que\nela acabar",
+      "texto": "\"Eu fiz o que pude\ncom o que tinha.\nEu me posicionei.\nIsso já é muito.\"\n\nMesmo que não tenha\nsaído do jeito\nque você ensaiou."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A mais\nimportante",
+      "texto": "\"Eu escolho\na mim mesma.\"\n\nIsso não é egoísmo.\nÉ o começo de tudo."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não entra\nsozinha nessa\nconversa.\nVocê entra\ncom você.",
+      "texto": "Salve para reler\nantes da próxima\nconversa difícil."
+    }
+  ],
+  "legenda": "Alguns dos scripts mais importantes são os que você diz para si mesma: antes de uma conversa difícil, durante e depois que ela acaba.\n\nQual dessas frases você mais precisava ter ouvido da última vez?\n\nSe conversar com ele te dá medo de verdade, isso também é informação. Busque apoio antes de qualquer conversa: Ligue 180.\n\n#relacionamento #amorproprio #mulheres40mais #autoconhecimento #conversasdificeis",
+  "observacao_interna": "101 Scripts Para Conversas Difíceis, 'Scripts 98 a 101: Conversas Com Você Mesma' (98 antes, 99 prestes a ceder, 100 depois, 101 'Eu escolho a mim mesma. Isso não é egoísmo, é o começo de tudo') e Guia de Uso ('Priorize sua segurança: em relações abusivas ou perigosas, busque apoio antes de confrontar'), por isso o Ligue 180 na legenda. Abertura: lista prática."
+}
