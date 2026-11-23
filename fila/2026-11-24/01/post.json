@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-24-01",
+  "pauta_id": "P018",
+  "ebook": "DETOX",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Sobre ficar menor",
+      "titulo": "Você foi ficando\nmenor\nsem perceber?",
+      "subtitulo": "Não foi de propósito."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Foi um jeito\nde se proteger",
+      "texto": "\"Se eu não ocupo\nmuito espaço,\nele não vai embora.\"\n\n\"Se eu não peço demais,\nnão vou decepcionar.\"\n\nSe eu concordo,\nsorrio e me adapto,\na conexão fica."
+    },
+    {
+      "layout": "lista",
+      "titulo": "Os 4 degraus\ndo apagamento:",
+      "itens": [
+        "Medo de abandono: ser você mesma parece custar o relacionamento.",
+        "Silenciar opiniões, desejos e limites para manter a paz.",
+        "Com o tempo, não saber mais quem você é fora da relação.",
+        "O outro vira a única âncora de sentido."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "A parte cruel",
+      "texto": "Ficar menor\npara não perder o outro\né justamente o que\nfaz você se perder.\n\nE quem se perdeu de si\nnão consegue\nser vista de verdade."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Uma pergunta\npara guardar",
+      "texto": "Pense em três coisas\nque você faz só para\nnão ser deixada.\n\nAo lado de cada uma,\nescreva:\n\"Quem eu seria\nse não tivesse\nesse medo?\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Recuperar\nsua voz\nnão é perder\no amor.",
+      "texto": "Salve para responder\nàquela pergunta\ncom calma.\nE envie para uma amiga\nque anda sumindo\nde si mesma."
+    }
+  ],
+  "legenda": "Ninguém decide ficar invisível. Vai acontecendo aos poucos: uma opinião guardada aqui, um desejo deixado para depois ali.\n\nO medo de perder o outro faz a gente ocupar cada vez menos espaço. E é justamente isso que nos faz perder a nós mesmas.\n\nEm qual degrau você se reconhece hoje?\n\n#dependenciaemocional #amorproprio #mulheres40mais #autoconhecimento #relacionamento",
+  "observacao_interna": "Detox da Dependência Emocional, 'Como o medo cria a mulher invisível' (não de propósito, estratégia de sobrevivência relacional; falas 'Se eu não ocupo muito espaço...'; 4 etapas: medo de abandono, supressão do eu, anulação progressiva, dependência aprofundada; 'o cruel desse ciclo'), cap. 3 'Coloque em prática hoje' (três comportamentos para evitar o abandono, 'Quem eu seria se não tivesse esse medo?') e 'O custo emocional da anulação' ('Recuperar sua voz e sua presença não significa perder o amor'). Abertura: pergunta direta. Não repete o paradoxo da anulação de P007."
+}

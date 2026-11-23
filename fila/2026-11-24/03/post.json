@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-24-03",
+  "pauta_id": "P009",
+  "ebook": "PNSR",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Carta",
+      "titulo": "Para a mulher\nque já pediu\n\"me respeite mais\"\ne nada mudou.",
+      "subtitulo": "Você tinha razão. O pedido só precisava de outra forma."
+    },
+    {
+      "layout": "texto",
+      "titulo": "O que é\n\"respeitar mais\"?",
+      "texto": "Você sabe exatamente\no que quer dizer.\n\nMas como ele\nsaberia se está\nfazendo isso?\n\nLimite vago\ngera confusão\ne frustração."
+    },
+    {
+      "layout": "texto",
+      "titulo": "A mesma\nnecessidade,\ndita de outro jeito",
+      "texto": "\"Quando você me interrompe\nenquanto estou falando,\neu preciso que você espere\neu terminar\nantes de responder.\""
+    },
+    {
+      "layout": "lista",
+      "titulo": "O que mudou\nna frase:",
+      "itens": [
+        "Ela diz qual comportamento incomoda.",
+        "Dá para ver quando acontece.",
+        "Ela diz o que precisa no lugar.",
+        "Fica claro para você e para ele."
+      ]
+    },
+    {
+      "layout": "texto",
+      "titulo": "Não é castigo",
+      "texto": "Um limite não é\numa punição.\n\nÉ uma informação\nsobre o que você precisa\npara que o relacionamento\nfuncione."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Troque o \"mais\"\npelo que\naconteceu.",
+      "texto": "Qual pedido vago\nvocê já fez?\nEscreva nos comentários\ncomo ele ficaria\ndito em comportamento."
+    }
+  ],
+  "legenda": "\"Me respeite mais\" é um pedido justo. Mas o que significa respeitar mais? Como ele saberia se está fazendo isso?\n\nQuando o limite fala de um comportamento específico, ele fica claro para você e para o outro.\n\nQual pedido vago você reescreveria hoje?\n\n#limites #relacionamento #comunicacao #mulheres40mais #amorproprio",
+  "observacao_interna": "Promessa Não Sustenta Relacionamento, 'O Que São Limites Baseados em Comportamento' (limites vagos geram confusão e frustração; claros, observáveis e acionáveis para você e para o outro; exemplo vago 'Eu preciso que você me respeite mais' x 'Quando você me interrompe...'; 'Um limite não é uma punição. É uma informação...'). Abertura: carta. Não usa a fórmula Quando/Sinto/Porque/Preciso (P010) nem observar/decidir/comunicar e o falso limite de P043."
+}
