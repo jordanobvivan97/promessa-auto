@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-11-23T22:04",
+  "atualizado_em": "2026-11-24T20:41",
   "posts_por_dia": 3,
   "mediana_recente": 11.0,
   "posts_recentes": 42,
-  "mediana_anterior": null,
-  "posts_anteriores": 0,
+  "mediana_anterior": 15,
+  "posts_anteriores": 3,
   "janelas_estaveis": 0,
   "motivo": "amostra insuficiente (menos de 10 posts por janela)",
   "ultima_avaliacao": null
