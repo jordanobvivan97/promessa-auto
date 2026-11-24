@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-25-03",
+  "pauta_id": "P059",
+  "ebook": "101",
+  "tipo": "carrossel",
+  "horario": "19:00",
+  "tema": "rose",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Uma cena comum",
+      "titulo": "O garçom perguntou\no que ela queria.\nEle respondeu\npor ela.",
+      "subtitulo": "E ela já nem estranhou."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Parece pouco",
+      "texto": "Ele escolhe o prato.\nResponde o convite.\nConta a história\ndo jeito dele.\n\nAos poucos,\nela some da\nprópria conversa."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando falam\npor você",
+      "texto": "\"Eu prefiro\nfalar por mim mesma.\nDa próxima vez,\nme pergunte antes\nde responder\nem meu nome.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando cortam\nsua frase",
+      "texto": "\"Eu percebo que sou\ninterrompida com frequência.\nEu gostaria de terminar\nmeu raciocínio antes\nde você responder.\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando falam de você\ncomo se você\nnão estivesse ali",
+      "texto": "\"Eu estou aqui\ne prefiro ser incluída\nnessa conversa.\nPodem falar\ncomigo diretamente?\""
+    },
+    {
+      "layout": "texto",
+      "titulo": "Quando ignoram\no que você disse",
+      "texto": "\"Eu percebo que\no que eu disse\nfoi ignorado.\nEu gostaria que\nvocê me respondesse,\nmesmo que discorde.\""
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Você não está\npedindo concordância.\nEstá pedindo\nconsideração.",
+      "texto": "Salve para ter\nas frases à mão.\nE comente qual delas\nvocê já precisou dizer."
+    }
+  ],
+  "legenda": "Ninguém some da própria vida de uma vez. Às vezes começa numa mesa de restaurante, quando outra pessoa responde por você e você deixa passar.\n\nFalar por si mesma não é briga. É ocupar o lugar que já é seu na conversa.\n\nQual dessas frases você já precisou dizer?\n\n#limites #respeito #mulheres40mais #comunicacao #amorproprio",
+  "observacao_interna": "101 Scripts Para Conversas Difíceis, 'Scripts 57 a 63: Quando o Respeito Está em Falta': scripts 59 (falar por você), 57 (interrompida), 62 (falam de você na sua frente), 61 (ignoram o que você diz) e o fecho ecoa o 63 ('Não estou pedindo concordância, estou pedindo consideração'). Não usa o script 60 (piada), já usado em P034. Abertura: cena curta (restaurante), diferente das cenas de P034 (mesa rindo) e P047 (almoço de família)."
+}

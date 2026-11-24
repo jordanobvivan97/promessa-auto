@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-25-01",
+  "pauta_id": "P066",
+  "ebook": "MLI",
+  "tipo": "carrossel",
+  "horario": "06:00",
+  "tema": "cafe",
+  "slides": [
+    {
+      "layout": "capa",
+      "etiqueta": "Exercício de 3 linhas",
+      "titulo": "Seus limites\nestão escondidos\nem quatro\nperguntas.",
+      "subtitulo": "Responda com o que você sente. Não com o que parece certo."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Antes de começar",
+      "texto": "Não procure\na resposta bonita.\n\nProcure a verdadeira.\nAquela que você\nsó diria para\nvocê mesma."
+    },
+    {
+      "layout": "texto",
+      "titulo": "Pergunta 1",
+      "texto": "O que me faz\nsentir invisível\nou diminuída\nnum relacionamento?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "Pergunta 2",
+      "texto": "Que comportamentos\neu fico tolerando,\nmesmo sentindo\nque não deveria?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "Pergunta 3",
+      "texto": "Em que situações\neu saio de uma conversa\nemocionalmente\nesgotada?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "Pergunta 4",
+      "texto": "O que eu sempre\njustifiquei no outro,\nmas que, no fundo,\nme magoa muito?"
+    },
+    {
+      "layout": "texto",
+      "titulo": "Agora,\nsó uma",
+      "texto": "Escolha a pergunta\nque mais incomodou.\n\nEscreva a resposta\nem três linhas.\nSem filtrar.\nSem corrigir."
+    },
+    {
+      "layout": "fechamento",
+      "titulo": "Qual das\nquatro perguntas\npesou mais?",
+      "texto": "Salve para responder\nhoje à noite, com calma.\nE envie para uma amiga\nque vive dizendo\n\"tudo bem\"."
+    }
+  ],
+  "legenda": "Quem passa anos vivendo para agradar vai perdendo contato com as próprias necessidades. E aí fica difícil dizer onde está o limite.\n\nEssas quatro perguntas ajudam a encontrar o caminho de volta. Escolha uma e escreva três linhas, sem filtrar.\n\nQual delas pesou mais para você?\n\n#limites #amorproprio #mulheres40mais #autoconhecimento #relacionamento",
+  "observacao_interna": "Manual dos Limites Inegociáveis, 'Exercício: encontrando seus limites' (as quatro perguntas, 'Responda com honestidade, não com o que parece certo, mas com o que você realmente sente'; 'Coloque em prática hoje: escolha uma das perguntas e escreva sua resposta em 3 linhas, sem filtrar') e 'O que acontece quando não existem limites' (viver para agradar faz perder contato com as próprias necessidades; o 'tudo bem' que vira mágoa). Abertura: lista prática. Não usa 'Da dor ao limite' (P057, ainda livre)."
+}
