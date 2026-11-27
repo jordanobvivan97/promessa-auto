@@ -1,11 +1,11 @@
 {
-  "atualizado_em": "2026-11-26T19:39",
+  "atualizado_em": "2026-11-27T19:29",
   "posts_por_dia": 3,
-  "mediana_recente": 13.0,
+  "mediana_recente": 13.5,
   "posts_recentes": 42,
-  "mediana_anterior": 13,
-  "posts_anteriores": 9,
-  "janelas_estaveis": 0,
-  "motivo": "amostra insuficiente (menos de 10 posts por janela)",
-  "ultima_avaliacao": null
+  "mediana_anterior": 12.5,
+  "posts_anteriores": 12,
+  "janelas_estaveis": 1,
+  "motivo": "alcance mediano variou +8%",
+  "ultima_avaliacao": "2026-11-27"
 }
